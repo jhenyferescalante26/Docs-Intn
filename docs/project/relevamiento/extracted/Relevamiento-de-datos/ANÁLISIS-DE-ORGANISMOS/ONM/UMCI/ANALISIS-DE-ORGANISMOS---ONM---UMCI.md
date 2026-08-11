@@ -1,0 +1,7 @@
+# ANALISIS-DE-ORGANISMOS---ONM---UMCI
+
+Fuente: `Relevamiento de datos/ANÁLISIS DE ORGANISMOS/ONM/UMCI/ANALISIS DE ORGANISMOS - ONM - UMCI.pdf`.
+
+Regenerar: `python scripts/extract-relevamiento-sources.py`.
+
+CONTACTOSPORTAL DE CLIENTEEXPEDIENTEFABRICACION CHATTER CALENDARIODOCUMENTOSFACTURACIONFIRMA 2DA FASE INVENTARIOONM  El expediente debe ser generado de manera automática cuando el presupuesto sea confirmado por el cliente. UMCI debe validar que la solicitud del cliente cumpla con los requisitos establecidosAgendamiento de solicitudes de ServiciosBloqueo de fechas:-Feriados-Viajes-Vacaciones-Mantenimiento de equiposUMCIUMCI No crea contactos ATC crea contactos y da de AltaEl cliente debe poder:-Realizar consulta de Servicio-Visualizar listado de servicio y poder seleccionar más instrumentos-Previsualizar el presupuesto-Confirmar el expediente-Visualizar certificado una vez pagado-Recibir notificacionesUMCI no crea facturas, solo se requiere ver el estado de "PAGADO"Creación de factura:-Crédito-ContadoLe debe llegar a UMCI la solicitud"Orden de Producción al laboratorio"Recepción de Instrumento "Secretaria UMCI"Notificación de recepción a:-INTN-ClienteEmisión de Certificado (PDF)Se analizará insertar firma electrónica, token y cod. único al certificadoLa comunicacion es entre Costos y los departamentos de la Unidad UMCIMETRA"Vida útil de los instrumentos"Subir documentos "certificados", compartidos con el cliente

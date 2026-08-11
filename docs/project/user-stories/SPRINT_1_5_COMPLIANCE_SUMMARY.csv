@@ -1,0 +1,47 @@
+sprint,historia_id,historia_titulo,historia_estado,subtareas_total,subtareas_cumple,subtareas_parcial,subtareas_no,modulos_evidencia,rf_referencia,csv_desarrollo
+1,US-S1-01,Registro de clientes,Cumple,0,0,0,0,rf_customer_registration; intn_portal_registration; intn_portal_hybrid_auth,RF 2.1,Listo para pruebas
+1,US-S1-02,Estructura de contactos empresariales,Cumple,0,0,0,0,intn_portal_registration (intn.establishment),RF 2.2,
+1,US-S1-03,Carga documental en solicitudes,Cumple,0,0,0,0,intn_service_request; intn_portal_fleet_requests; intn_documents,RF 2.3,
+1,US-S1-04,Historial de camiones cisterna,Cumple,0,0,0,0,intn_fleet_cistern,,
+1,US-S1-05,Remision y devolucion de precintos,Cumple,7,7,0,0,intn_fleet_cistern_seals; intn_fleet_cistern_constancy; intn_product_remission,,
+1,US-S1-06,Certificados de cisternas,Cumple,8,8,0,0,intn_certificate_management; intn_fleet_cistern_certificates; intn_fleet_cistern_verification,,
+1,US-S1-07,Multa por inasistencia a inspeccion,Cumple,0,0,0,0,intn_fleet_cistern_fines,,
+1,US-S1-08,Check de procedimientos,Cumple,1,1,0,0,intn_fleet_cistern_verification,RF 8.3,Listo para pruebas
+2,US-S2-01,Agendamiento y solicitud de servicios,Cumple,3,3,0,0,intn_portal_fleet_requests; intn_portal_metrology_dispenser_requests; intn_service_request,RF 2.2,Listo para pruebas
+2,US-S2-02,Seguimiento de pedido,Cumple,2,2,0,0,intn_portal_fleet_requests; intn_portal_sale_orders,RF 2.6,Listo para pruebas
+2,US-S2-03,Visualizacion de presupuesto,Parcial,0,0,0,0,intn_portal_sale_orders; intn_portal_fleet_requests,RF 2.7,Retornado
+2,US-S2-04,Datos obligatorios de contacto,Cumple,5,5,0,0,intn_portal_registration; partner_vat_unique,RF 1.2,Listo para pruebas
+2,US-S2-05,Solicitudes picos de surtidores,Cumple,2,2,0,0,intn_portal_metrology_dispenser_requests,,
+2,US-S2-06,Ordenes de servicio en portal,Cumple,4,4,0,0,intn_portal_fleet_requests; intn_portal_sale_orders,,
+3,US-S3-01,Login Identidad Electronica,Parcial,0,0,0,0,intn_portal_hybrid_auth,RF 2.8,Trancado
+3,US-S3-02,Consulta establecimientos por RUC,Parcial,0,0,0,0,intn_portal_registration,RF 1.3,Trancado
+3,US-S3-03,Visualizacion informes pagados,Cumple,1,1,0,0,intn_service_request; intn_portal_fleet_requests; intn_documents,RF 2.4,Listo para pruebas
+3,US-S3-04,Gestion de expedientes,Cumple,3,3,0,0,intn_service_request; intn_sale_additional_costs,RF 3.4,Listo para pruebas
+3,US-S3-05,Estado de pago visible en listado,Cumple,0,0,0,0,intn_sale_order_payment_status; intn_service_request,,
+3,US-S3-06,Gestor y beneficiario,Cumple,0,0,0,0,intn_service_request,,
+3,US-S3-07,Clientes con convenio,Cumple,0,0,0,0,intn_sale_agreement,RF 3.6,
+3,US-S3-08,Clientes a credito,Cumple,0,0,0,0,intn_partner_credit_limit,RF 3.9,Listo para pruebas
+3,US-S3-09,Ecommerce de normas,Parcial,1,0,1,0,intn_portal_registration (website_sale /my/ecommerce),RF 2.9,Listo para pruebas (desincronizado: el avance real es Parcial)
+4,US-S4-01,Jerarquia organizacional para reportes,Cumple,0,0,0,0,intn_organization; intn_organization_reports,RF 3.10,Listo para pruebas
+4,US-S4-02,Reestructuracion de productos,Parcial,0,0,0,0,intn_product_organization,RF 3.11,Trabajando
+4,US-S4-03,Historial variaciones de precios,Cumple,1,1,0,0,intn_sale_price_update,RF 3.8,Listo para pruebas
+4,US-S4-04,Restriccion descarga documentos,Cumple,1,1,0,0,intn_certificate_management; intn_documents; intn_service_request,RF 2.5 / RF 2.5.1,Listo para pruebas
+4,US-S4-05,Pagos credito y cancelacion,Cumple,1,1,0,0,intn_account_payment_group; intn_account_cashier,RF 4.6,Listo para pruebas
+4,US-S4-06,Validacion DNIT en facturacion,Parcial,0,0,0,0,l10n_py_ruc,RF 4.2,Trancado
+4,US-S4-07,Formato de factura,Cumple,0,0,0,0,l10n_py_edi_segel,RF 4.5,Listo para pruebas
+4,US-S4-08,Nota de credito,Cumple,1,1,0,0,intn_account_payment_group,RF 4.7,Listo para pruebas
+4,US-S4-09,Integracion SIFEN,Parcial,0,0,0,0,l10n_py_edi_segel,RF 4.1,Trancado
+4,US-S4-10,Derivacion ordenes de trabajo,Parcial,1,0,1,0,intn_mrp_workorder_forwarding,RF 5.20,Trabajando
+4,US-S4-11,Estados servicio en Fabricacion,Cumple,1,1,0,0,intn_mrp_organism_access,,
+4,US-S4-12,Aprobacion rechazo documentacion,Cumple,0,0,0,0,intn_mrp_oiat; intn_mrp_oni; intn_portal_fleet_requests,RF 5.22,Listo para pruebas
+4,US-S4-13,Notificacion al finalizar servicio,Cumple,1,0,1,0,intn_service_request,RF 5.16,Listo para pruebas
+5,US-S5-01,Tipos de pago y validacion transferencia,Cumple,0,0,0,0,intn_account_payment_group; intn_account_pagopar,RF 4.4,Listo para pruebas
+5,US-S5-02,Cierre de caja por cajero,Cumple,1,1,0,0,intn_account_cashier; intn_account_pagopar,RF 4.3,Listo para pruebas
+5,US-S5-03,Campos variables por tipo de servicio,Cumple,0,0,0,0,intn_service_request (portal.form.layout),RF 3.5,Listo para pruebas
+5,US-S5-04,Bloqueo por facturas vencidas,Cumple,0,0,0,0,intn_service_request,RF 2.11,Listo para pruebas
+5,US-S5-05,Permisos Fabricacion por departamento,Cumple,0,0,0,0,intn_mrp_organism_access,RF 5.19,Listo para pruebas
+5,US-S5-06,Modulo documentos historicos,Cumple,8,8,0,0,intn_documents; intn_certificate_management,RF 5.21,Listo para pruebas
+5,US-S5-07,Reportes OIAT,Cumple,0,0,0,0,intn_mrp_oiat,RF 5.6,Listo para pruebas
+5,US-S5-08,Reportes METCI,Cumple,1,1,0,0,intn_mrp_metci,RF 5.15,Listo para pruebas
+5,US-S5-09,Certificados METCI con QR,Cumple,1,1,0,0,intn_mrp_metci; intn_certificate_management,RF 5.14,Listo para pruebas
+5,US-S5-10,Migracion inspeccion tanque cisterna,Cumple,0,0,0,0,intn_fleet_cistern_verification,Migrar inspeccion tanque,Listo para pruebas

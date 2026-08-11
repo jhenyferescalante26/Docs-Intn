@@ -1,0 +1,4448 @@
+LISTA COMPLETA DE TERMINOS SIN TRADUCIR (es_PY)
+Base de datos: intn_demo (con .po del repositorio cargados)
+================================================================================
+
+Total terminos faltantes: 4213
+Modulos con pendientes: 57
+
+
+================================================================================
+MODULO: intn_brand_service_requests (544 faltantes)
+================================================================================
+- 'Licencia ONC N° %s' % (object.name)
+- 'ONN_NORMS_%s' % (object.name)
+- 'ONN_NORMS_PREVIEW_%s' % (object.name)
+- - Remitir 2 (dos) originales del Informe/Certificado a nombre del ONC.
+- 1.2\tAuditoría Etapa I
+- <b>Asunción, </b>
+- <span>Código: FOR-ONI-76, Versión: 01</span>
+- <strong>Category:</strong>
+- <strong>Estado:</strong>
+- <strong>Fecha:</strong>
+- <strong>Número:</strong>
+- <strong>Producto:</strong>
+- <strong>Sale order:</strong>
+- <strong>Service type:</strong>
+- <strong>Solicitante:</strong>
+- <strong>Titular:</strong>
+- <strong>Type:</strong>
+- <strong>Vigencia:</strong>
+- A label delivery operation type must be configured.
+- A printer user is required.
+- Access warning
+- Acta INTN N°:
+- Acta de Extracción de Muestras:
+- Acta de extracción de muestras
+- Action Needed
+- Active
+- Activities
+- Activity Exception Decoration
+- Activity State
+- Activity Type Icon
+- Actualizar
+- Actualizar Cantidades
+- Additional Cost Amount
+- Address
+- Agents 1
+- Agents 2
+- Applicant
+- Applicant City
+- Applicant Country
+- Applicant State
+- Applicant Tax ID
+- Applies Additional Cost
+- Approx Qty Used
+- Archivo Excel
+- Asignar
+- Assigned
+- Asunción,
+- Attachment Count
+- Auditoría
+- Auditoría de Vigilancia antes de finalizar el 2do año
+- Autorizar Reimpresión
+- Available Labels
+- Available Qty
+- Batch Certificates
+- Batch Conformity Certificate
+- Batch Detail
+- Batch Identification
+- Batch Quantity
+- Batch Size
+- Batch Size (kg)
+- Batch Volume
+- Branch
+- Brand
+- Brand Batch Conformity Certificate
+- Brand Budget Conformity
+- Brand Budget Internal
+- Brand Budget System
+- Brand Conformity License
+- Brand Conformity License Mixin
+- Brand Conformity License Type 2
+- Brand Delivered Quantity Update Line
+- Brand Delivered Quantity Update Wizard
+- Brand Invoice Rejection Wizard
+- Brand Label Control
+- Brand Label Invoice Voucher
+- Brand Label Invoice Voucher Line
+- Brand Label Print Job
+- Brand Label Print Job Line
+- Brand Label Print Verify Wizard
+- Brand Label Print Wizard
+- Brand Label Printer
+- Brand Label Reprint Line
+- Brand Label Reprint Wizard
+- Brand Labels Printer
+- Brand License Certificates
+- Brand License Norm
+- Brand License Regulation
+- Brand License Scope
+- Brand License Services
+- Brand Licenses
+- Brand ONN Norms
+- Brand Payment Method
+- Brand Print Balance
+- Brand Print Balances
+- Brand Print Request
+- Brand Print Request Audit
+- Brand Print Request Audit Report
+- Brand Print Request Line
+- Brand Print Request Report Wizard
+- Brand Print Requests
+- Brand Print Shop
+- Brand Product Brand
+- Brand Product Manufacturer
+- Brand Rejection Note
+- Brand Report Date Helpers
+- Brand Report QR Code Mixin
+- Brand Request
+- Brand Requests
+- Brand Ring Color
+- Brand Sampling
+- Brand Sampling Extraction Minutes
+- Brand Sampling Report
+- Brand Sampling Test Request
+- Brand Sampling Test Request Line
+- Brand Scope 1
+- Brand Scope 2
+- Brand Service Requests
+- Brand Service Requests Manager
+- Brand Stage
+- Brand Stage Line
+- Brand Stages
+- Brand Sub-stage
+- Brand Sub-stages
+- Brand Test Determination
+- Brand Test Determination Product
+- Brand Usage
+- Brand Usage Code
+- Brand Usage State
+- Brand Voucher Management
+- Brand Voucher Management Line
+- Brand document print count
+- Brand request (%s)
+- Brand services license certificate
+- Brand: Check License Expiry
+- Brand: ONN Norms
+- Brand: ONN Norms Reprint
+- Budget Stage
+- CANT.
+- CERTIFICADO DE CONFORMIDAD DE LOTES DE PRODUCTOS
+- Cancelar
+- Cancelled
+- Cantidad
+- Cantidad de Lote:
+- Cantidad muestra/s
+- Certificación
+- Certificación ONC
+- Certificado de Conformidad de Lote
+- Certificado de Conformidad de Lotes
+- Certificado de Conformidad de Lotes de Productos
+- Certificados de Conformidad de Lote
+- Certificados de lote
+- Certificate Balance
+- Certificate Balance Text
+- Certificate Notes
+- City
+- City ID
+- Cliente
+- Cliente:
+- Color
+- Color de Anillos
+- Company
+- Confidencialidad:
+- Confirmar
+- Confirmed
+- Conformity
+- Conformity License
+- Conformity License Type 2
+- Contenido de la Nota
+- Control End
+- Control Next
+- Control Number
+- Control Start
+- Control de Etiquetas
+- Control de Etiquetas Vendidas
+- Country
+- Counts successful PDF downloads for print-once policies.
+- Crear Expediente
+- Crear Transferencias
+- Create
+- Created by
+- Created on
+- Current Stock
+- Customer
+- Customer Portal URL
+- DOCUMENTO DE REFERENCIA
+- Date
+- Date From
+- Date In Words
+- Date To
+- Datetime
+- Datos principales
+- Delivered Qty
+- Deliveries
+- Denominación de la empresa:
+- Descargar PDF
+- Descripción de los ítems:
+- Descripción muestra/s
+- Descripción:
+- Description
+- Description Html
+- Desde:
+- Detalle
+- Detalle del Lote
+- Determinaciones
+- Determinación
+- Determination
+- Determinations
+- Dirección:
+- Display Name
+- Display Type
+- Done
+- Download PDF
+- Draft
+- Duration
+- ESQUEMA TIPO 2
+- ETIQUETA
+- ETIQUETAS SOLICITADAS
+- Email
+- Enabled
+- Entregas
+- Enviar
+- Estado
+- Etapas
+- Etiqueta
+- Etiquetas solicitadas
+- Excel File
+- Excel Filename
+- Excel Row Count
+- Executing Department
+- Execution Date
+- Expedient
+- Expiration Date In Words
+- Expired
+- Expiry Date
+- Extraction Minutes
+- FABRICANTE
+- FECHA DE EXPIRACIÓN
+- Fabricante
+- Fabricantes
+- Facturas / comprobantes
+- Facturas/Comprobantes
+- Fecha
+- Fecha de Vencimiento
+- Filas
+- First Label Printed
+- Followers
+- Followers (Partners)
+- Font awesome icon e.g. fa-tasks
+- General Regulation
+- Generar Reporte
+- Generar Reporte de Solicitudes de Impresión
+- Gestión de Comprobantes
+- Has Message
+- Has Valid Qty
+- Hasta:
+- Header
+- I - PRODUCTO
+- I - SOLICITANTE
+- ID
+- II - FABRICANTE
+- II - SOLICITANTE
+- III - INFORMES RELACIONADOS
+- III - PRODUCTO
+- INFORME DE MUESTREO
+- INSTITUTO NACIONAL DE TECNOLOGÍA, NORMALIZACIÓN Y METROLOGÍA
+- IV - DOCUMENTO DE REFERENCIA
+- Icon
+- Icon to indicate an exception activity.
+- Identificación del Lote:
+- Identificación muestra/s
+- If checked, new messages require your attention.
+- If checked, some messages have a delivery error.
+- Imprentas
+- Impresiones
+- Impresión de Etiquetas
+- Impresoras
+- Imprimir
+- Imprimir Primera Etiqueta
+- In ONN Norms Group
+- Informe de Muestreo
+- Informes de Ensayo:
+- Insufficient print balance.
+- Insufficient ring balance for label %(label)s.
+- Insufficient stock in the label print location.
+- Internal
+- Internal picking type is not configured.
+- Invalid service type
+- Inventory Locations
+- Invoice Balance
+- Invoice Balance Text
+- Invoice Date
+- Invoice Number
+- Invoice Vouchers
+- Invoice number and stamp must be unique.
+- Is Agent
+- Is Brand License Services
+- Is Follower
+- Is Label
+- Is Ring
+- Items Description
+- KG/L POR UNIDAD.
+- KG/L TOTAL.
+- LICENCIA DE CONFORMIDAD
+- Label Delivery Operation
+- Label Lot
+- Label Print Job
+- Label Print Location
+- Label Print Name
+- Label Printed Location
+- Label Products
+- Label print location is not configured.
+- Label printed location is not configured.
+- Last Updated by
+- Last Updated on
+- Licencia de Conformidad
+- Licencia de Conformidad Esquema Tipo 2
+- Licencia de Uso de Marca INTN - Servicios
+- Licencia para el Uso de Marca INTN - Servicios
+- Licencias
+- License Certificate
+- License Code
+- Line
+- Lines
+- Lines to Print
+- Lot
+- Lot Number
+- Lote:
+- Lots
+- Lugar de Muestreo:
+- Líneas de Factura
+- Management
+- Management Line
+- Manufacturer
+- Manufacturer Tax ID
+- Marca
+- Marcas
+- Message Delivery error
+- Messages
+- Missing sale order for this request.
+- Model
+- Modelo
+- Muestra
+- Muestras
+- Must match the service category on portal service requests.
+- My Activity Deadline
+- Métodos de Pago
+- NP 118
+- Name
+- Needs Verification
+- New
+- New Brand Request
+- Next Activity Calendar Event
+- Next Activity Deadline
+- Next Activity Summary
+- Next Activity Type
+- Next Control Number
+- No active label printer is configured.
+- No brand requests yet.
+- Norm Document
+- Norm Document Name
+- Normas
+- Norms
+- Nota de Rechazo
+- Note
+- Notes
+- Nueva Solicitud de Impresión
+- Nueva solicitud
+- Number End
+- Number Start
+- Number of Actions
+- Number of errors
+- Number of messages requiring action
+- Number of messages with delivery error
+- ONC N°
+- ONC-FOR-051 / Rev. 01
+- ONC-FOR-052 / Rev. 00
+- ONC-FOR-068 / Rev. 01
+- ONN Norms
+- ONN Norms Preview
+- ONN Norms Reprint
+- ORGANISMO NACIONAL DE CERTIFICACIÓN <br/>
+- Observaciones
+- Observaciones:
+- Observación
+- Observations
+- Only cancelled print jobs can be deleted.
+- Only draft batch certificates can be deleted.
+- Only draft voucher management records can be deleted.
+- Operaciones
+- Order
+- Organization
+- Origen
+- Origin
+- Partner
+- Pending
+- Phone
+- Picking Count
+- Picking Type
+- Portal Access URL
+- Portal brand request
+- Powder Kg Total
+- Powder Kg per Unit
+- Presentación:
+- Presentation
+- Presupuesto Conformidad
+- Presupuesto Interno
+- Presupuesto Sistema
+- Preview:
+- Print Job
+- Print Jobs
+- Print Labels
+- Print Request
+- Print Request Report
+- Print Shop
+- Print request %(name)s submitted from the customer portal.
+- Printed Count
+- Printer
+- Product Brand
+- Product Lines
+- Product Tmpl
+- Producto
+- Producto:
+- Products
+- Purchase Invoice Name
+- Purchase Invoice PDF
+- Qr Code
+- Qty
+- Qty Used
+- Quantity
+- Ratings
+- Ready
+- Reason
+- Reception Date
+- Rechazar
+- Reference
+- Reference Documents
+- Referencia
+- Registro de Comprobantes
+- Registro de Impresión
+- Reglamentos
+- Regulations
+- Reject Invoice
+- Rejection Note
+- Rejection Reason
+- Related Batch Certificates
+- Related Invoice Vouchers
+- Related Reports
+- Remaining Batch (kg) Approx
+- Remaining Batch (kg) Real
+- Report not available until the related service is invoiced.
+- Report not available until the related service is paid.
+- Reporte de Solicitudes de Impresión
+- Reprint
+- Reprint Labels
+- Reprint Status
+- Request
+- Request Date
+- Requested
+- Responsible User
+- Ring Product
+- Ring Purchase
+- S.E. N°:
+- SMS Delivery error
+- SOLICITANTE
+- SOLICITUD DE ENSAYOS Y/O INSPECCION
+- SOLICITUD DE IMPRESIÓN
+- Safety
+- Safety Sheet Number
+- Saldo
+- Saldos de Impresión
+- Sample
+- Sample Identification
+- Sample Quantity
+- Sampling Extraction Minutes
+- Sampling Location
+- Sampling Reports
+- Scrap
+- Scrap Count
+- Scraps
+- Seal Number
+- Section
+- Security Token
+- Selected
+- Sequence
+- Sequence Label
+- Service Description 1
+- Service Description 2
+- Show Authorize Reprint Button
+- Show Balances
+- Show First Label Button
+- Show Print Button
+- Show Verify Button
+- Solicitamos:
+- Solicitar Reimpresión
+- Solicitu de Servicio al INTN N°:
+- Solicitud de Ensayos y/o Inspección
+- Solicitud de Normas
+- Solicitudes
+- Solicitudes de Impresión
+- Specific Regulations
+- Stage
+- Stamp Number
+- State
+- Status
+- Street
+- Sub Etapas
+- Subir control
+- Substage
+- Supplier
+- Suspended
+- System
+- Tamaño del Lote
+- Test Determinations
+- Test Request
+- Test Request Line
+- This document can only be downloaded once.
+- Total Certificate Balance
+- Total Invoice Balance
+- Transfer
+- Trazabilidad de Uso de Marca
+- Type
+- Type of the exception activity on record.
+- Update Delivered Quantities
+- User
+- V - FECHA DE VENCIMIENTO
+- VI - OBSERVACIONES
+- Validity Period
+- Verificar
+- Verified
+- Verified Lines
+- Verify Print Job
+- Vigilancia
+- Volumen del lote:
+- Voucher
+- Voucher Management
+- Vouchers
+- Válido hasta el
+- Website Messages
+- Website communication history
+- Wizard
+- Year
+- kg)
+- marca
+- y de las Normas Paraguayas
+
+================================================================================
+MODULO: intn_portal_metrology_dispenser_requests (487 faltantes)
+================================================================================
+- %s is not valid.
+- %s is required.
+- 'Model Approval Certificate - %s' % (object.name)
+- 'Model Approval Requirements'
+- 'Technical Rejection - %s' % (object.name)
+- 'Temporary Habilitation - %s' % (object.name)
+- 'Verification Sheet - %s' % (object.name)
+- 2. Identificacion del instrumento de medicion bajo control
+- 3. Inspeccion visual (Check List Cumple / No Cumple)
+- 4. Ensayos de exactitud volumetrica (picos de surtidores)
+- 4.4 Precintos
+- <i class=\"fa fa-plus me-2\"/>New Request
+- <option value=\"\">Select...</option>
+- <span class=\"o_stat_text\">Sale Order</span>
+- <span class=\"o_stat_text\">Ticket</span>
+- <strong>Ciudad:</strong>
+- <strong>Correo de facturacion:</strong>
+- <strong>Empresa:</strong>
+- <strong>Fecha de emision:</strong>
+- <strong>Numero:</strong>
+- <strong>Service type:</strong>
+- <strong>Solicitud:</strong>
+- <strong>State:</strong>
+- <strong>Ticket:</strong>
+- APROBADO
+- ATC: New Metrology Service Request
+- Accessories
+- Action Needed
+- Active
+- Activities
+- Activity Exception Decoration
+- Activity State
+- Activity Type Icon
+- Address
+- Agregar instrumento
+- All checklist items must have a result (Complies / Does Not Comply).
+- All nozzle tests must have an approved/rejected result.
+- Annual Periodic
+- Ano de fabricacion
+- Ano fab.
+- Approve document
+- Approved
+- Aprobacion de modelo
+- Aprobacion de modelo N° (si corresponde)
+- Archived
+- Area clasificada
+- Attachment Count
+- Back
+- Brand
+- Brand (catalog)
+- Buscar emblema...
+- Buscar fabricante...
+- Buscar marca...
+- C
+- CMD 1687 SK
+- Cancel
+- Cancelled
+- Cantidad
+- Cantidad (picos)
+- Cantidad de picos
+- Cargando...
+- Caudal minimo / maximo
+- Certificado de Aprobacion de Modelo
+- City
+- City is not valid.
+- City is required.
+- Ciudad
+- Classification
+- Classification Date
+- Classification Rule
+- Classification Rules
+- Classified By
+- Classified Department
+- Classify
+- Clinical thermometer
+- Cod.
+- Company Email
+- Company name does not match your registered company.
+- Complementary
+- Complementary (Dispenser Nozzles)
+- Complemento de Certificado de Aprobacion de Modelo
+- Complies
+- Confirm
+- Confirm Evaluation
+- Confirmed
+- Consulte la documentacion exigida antes de enviar la solicitud.
+- Contact Email
+- Contact Person
+- Contact Phone
+- Control Functionality
+- Control Functionality (6.19-6.30.3)
+- Correo
+- Correo Electronico
+- Correo electronico
+- Could not generate the temporary habilitation PDF for %s.
+- Create a brand for metrology model approval requests.
+- Create a measure unit for operating range fields.
+- Create a model linked to an instrument brand.
+- Create an instrument type for metrology service requests.
+- Created by
+- Created on
+- Customer
+- Date
+- Date declared by the customer on the portal form.
+- Date is not valid.
+- Date is required.
+- Datos administrativos para la facturacion
+- Datos del Fabricante
+- Datos del Instrumento
+- Datos del Solicitante
+- Datos del instrumento
+- Default area for technical classification.
+- Deliverer
+- Deliverer Email
+- Deliverer Name
+- Deliverer Phone
+- Departamento
+- Department
+- Department is not valid.
+- Department is required.
+- Descarga de Requisitos
+- Descarga residual (ml)
+- Descargar requisitos (PDF)
+- Direccion
+- Dispenser
+- Dispenser Nozzle Volumetric Test
+- Dispenser Technical Verification
+- Dispenser Visual Inspection Checklist Line
+- Dispenser nozzles
+- Display Name
+- Document Review
+- Document Validation Done
+- Document Validation Notes
+- Document validation must be completed.
+- Documentacion del prototipo o muestra.
+- Documentation Rejected
+- Documentation must be approved before confirming the request.
+- Documentation must be approved before issuing temporary habilitation.
+- Documento vinculante fabricante
+- Documentos Adjuntos
+- Does Not Comply
+- Done
+- Download evaluation report
+- Download temporary habilitation
+- Draft
+- Each equipment line must have at least one technical sheet.
+- Ej. 2024
+- Electric energy meter
+- Email
+- Emblem
+- Emblema
+- Equipment
+- Equipment lines
+- Error max. (ml)
+- Estado 4 - Verificacion Tecnica
+- Evaluation Report
+- Evaluation Report PDF
+- Evaluation Result
+- Eventual
+- Fabricante
+- Familia de Modelo
+- Fecha
+- Fecha de inspeccion
+- Ficha tecnica del instrumento sujeto a evaluacion.
+- Filter
+- Flow UoM
+- Followers
+- Followers (Partners)
+- Font awesome icon e.g. fa-tasks
+- Free-text description of the measuring instrument type.
+- Global evaluation result is required.
+- Group By
+- HONGYANG
+- Habilitacion Temporal
+- Habilitation
+- Habilitation PDF
+- Has Message
+- Hoja(s) tecnica(s)
+- Homologacion de Aprobacion de Modelo
+- Hose Length (cm)
+- Hybrid
+- ID
+- Icon
+- Icon to indicate an exception activity.
+- Identificacion del instrumento de medicion bajo control
+- Identificacion y datos de contacto del fabricante.
+- If checked, new messages require your attention.
+- If checked, some messages have a delivery error.
+- Informe Tecnico de Rechazo
+- Initial Verification
+- Inspection Date
+- Instrument
+- Instrument %(index)s: %(label)s is required.
+- Instrument %(index)s: Model does not belong to the selected brand.
+- Instrument %(index)s: Nozzle Count must be at least 1.
+- Instrument Brand
+- Instrument Brands
+- Instrument Identification
+- Instrument Model
+- Instrument Models
+- Instrument Type
+- Instrument Types
+- Instrumento
+- Instrumentos declarados
+- Is Follower
+- Issue Date
+- Issue Temporary Habilitation
+- Issued By
+- Item Code
+- Item Name
+- LPG or combined
+- Landline Phone
+- Last Updated by
+- Last Updated on
+- Liquid fuel dispensing machine
+- Long. manguera (cm)
+- Machine Type
+- Mandatory Devices
+- Mandatory Devices (6.30.4-6.32.1.3)
+- Manufacturer
+- Manufacturer (catalog)
+- Manufacturer Address
+- Manufacturer City
+- Manufacturer Country
+- Manufacturer Email
+- Manufacturer Name
+- Manufacturer Phone
+- Manufacturer Street
+- Manufacturer country is not valid.
+- Manufacturer country is required.
+- Manufacturer of the measuring instrument.
+- Manufacturing Year
+- Map instrument types to responsible departments.
+- Marca
+- Marca / Modelo
+- Marca verif. N°
+- Max Error (ml)
+- Max Flow
+- Maximum operating range must be greater than or equal to minimum.
+- Measure Unit
+- Measure Units
+- Message Delivery error
+- Messages
+- Metrology
+- Metrology Dispenser (Picos)
+- Metrology Dispenser Request
+- Metrology Dispenser Requests
+- Metrology Execution State
+- Metrology Instrument Brand
+- Metrology Instrument Model
+- Metrology Instrument Type
+- Metrology Measure Unit
+- Metrology Portal Header Fields
+- Metrology Report Brand
+- Metrology Report Instrument
+- Metrology Report Manufacturer
+- Metrology Report Model
+- Metrology Report Operating Range
+- Metrology Report Serial Numbers
+- Metrology Sample Reception
+- Metrology Sample Reception Line
+- Metrology Technical Classification Rule
+- Metrology Temporary Habilitation
+- Min Flow
+- Mobile Phone
+- Model
+- Model (catalog)
+- Model Approval
+- Model Approval Certificate
+- Model Approval Certificate Complement
+- Model Approval Certificate Revalidation
+- Model Approval Homologation
+- Model Approval Number
+- Model Approval Request Type
+- Model Approval Requirements
+- Model Family
+- Model approval certificate generated.
+- Model approval number issued by the metrology authority, if any.
+- Model does not belong to the selected brand.
+- Modelo
+- My Activity Deadline
+- N
+- NC
+- Name
+- New
+- New Metrology Dispenser Request
+- New metrology service request {{ object.name }}
+- Next Activity Calendar Event
+- Next Activity Deadline
+- Next Activity Summary
+- Next Activity Type
+- No requests found.
+- No sample reception registered.
+- Nombre
+- Nombre del Fabricante
+- Nota de compromiso Aduana
+- Nota de compromiso por intervencion de Aduana (si corresponde).
+- Notes
+- Nozzle Count
+- Nozzle Number
+- Nozzle Tests
+- Number
+- Number of Actions
+- Number of dispenser nozzles covered by this instrument entry.
+- Number of dispenser nozzles for technical verification.
+- Number of errors
+- Number of messages requiring action
+- Number of messages with delivery error
+- Number or customer...
+- N° de serie
+- Observaciones
+- Observe
+- Operating Range
+- Operating Range Max
+- Operating Range Min
+- Operating Range UoM
+- Operating range declared by the instrument manufacturer.
+- Operating range values are not valid.
+- P1 Medidor
+- P1 Meter
+- P2 Transducer
+- P2 Transductor
+- P3 Electronic Board
+- P3 Tablero
+- P4 Other
+- P4 Otros
+- PENDIENTE
+- Pais
+- Periodic Verification
+- Persona de Contacto
+- Persona de contacto
+- Physical State
+- Physical State (6.10-6.18)
+- Pico
+- Picos
+- Picos de Surtidores
+- Picos de Surtidores: Aprobación de modelo
+- Picos de Surtidores: Verificación complementaria
+- Picos de Surtidores: Verificación eventual
+- Picos de Surtidores: Verificación inicial
+- Picos de Surtidores: Verificación periódica
+- Portal City
+- Portal Contact Email
+- Portal Contact Mobile
+- Portal Landline Phone
+- Portal State
+- Portal Street
+- Print Verification Sheet
+- Prototipo / Muestra
+- Pump
+- Quitar
+- R
+- R.U.C.
+- REPROBADO
+- RESULTADO: APROBADO
+- RESULTADO: REPROBADO
+- RUC
+- Rango de funcionamiento
+- Ratings
+- Razon Social
+- Razon social
+- Received
+- Receiving Officer
+- Recepcion de muestra
+- Reception
+- Reception Date
+- Regenerate PDF
+- Register Return
+- Reject document
+- Rejected
+- Request Approved
+- Request Confirmed
+- Request Date
+- Request Type
+- Request must be classified before verification.
+- Request must be confirmed before sample reception.
+- Request must be evaluated before registering sample return.
+- Request type is required.
+- Requisito
+- Requisitos de Aprobacion de Modelo
+- Reset review
+- Residual Discharge (ml)
+- Responsible Department
+- Responsible User
+- Result
+- Resultado
+- Resultado de la verificacion:
+- Return Date
+- Return Officer
+- Return date, returned-by person and return officer are required.
+- Returned
+- Returned By
+- Revalidacion de Certificado de Aprobacion de Modelo
+- SMS Delivery error
+- Sample Quantity
+- Sample Received
+- Sample Reception
+- Sample Return
+- Sample Returned
+- Sample Serial Numbers
+- Sample must be received before classification.
+- Sample quantity is not valid.
+- Sample quantity must be at least 1.
+- Search
+- Section
+- Seleccionar ciudad
+- Seleccionar departamento
+- Seleccionar pais
+- Seleccionar...
+- Seleccione marca primero...
+- Sequence
+- Serial
+- Serial Number
+- Serial Numbers
+- Serial number
+- Serie
+- Service Request Initial Verification Mixin
+- Service Request Metrology Attachment Mixin
+- Service Request Metrology Catalog Mixin
+- Service Request Metrology Execution Mixin
+- Service Request Metrology Line Mixin
+- Service Request Model Approval Mixin
+- Service type <span class=\"text-danger\">*</span>
+- Sin resultados
+- Solicitante
+- Solicitud
+- Sort
+- Specifications
+- State
+- Submit
+- Submitted
+- Subsequent Verification
+- Tax ID does not match your registered company.
+- Technical Evaluation
+- Technical Rejection Report
+- Technical Sheets
+- Technical Verification
+- Technical Verification Sheet
+- Technical rejection report generated.
+- Technical sheet(s)
+- Technical sheets
+- Technically Classified
+- Telefono
+- Telefono fijo
+- Telefono movil
+- Temporary Habilitation
+- Temporary Habilitation Issued
+- Temporary Habilitations
+- Temporary habilitation %s issued.
+- Temporary habilitation must be issued before confirming the request.
+- Temporary habilitation report is not configured.
+- Test Sheets
+- Tipo
+- Tipo de Instrumento
+- Tipo de Solicitud
+- Tipo de instrumento
+- Tipo de maquina
+- Tipo de solicitud
+- Tipo de verificacion
+- Type of the exception activity on record.
+- Unidad de medida
+- Upload
+- Upload technical sheet
+- Valor maximo
+- Valor minimo
+- Verificacion Inicial de Picos de Surtidores
+- Verification
+- Verification Context
+- Verification Mark No.
+- Verification Type
+- View
+- Visual Inspection Checklist
+- Visual Inspection Done
+- Visual inspection must be completed.
+- Vol. caudal max. (ml)
+- Vol. caudal min. (ml)
+- Volume at Max Flow (ml)
+- Volume at Min Flow (ml)
+- Volumetric Tests
+- Water meter
+- Website Messages
+- Website communication history
+- X
+- Year the measuring instrument was manufactured.
+- You must add at least one equipment line with technical data.
+- l/h
+- l/min
+
+================================================================================
+MODULO: intn_onc_certification_requests (465 faltantes)
+================================================================================
+- 1 year
+- 1. Datos de la organizacion
+- 1. Datos del cliente - Solicitante
+- 1.2 Fabricante
+- 2 years
+- 2. Certificacion solicitada
+- 2. Esquema de certificacion
+- 2. Servicio solicitado
+- 2.1 Tipo de solicitud
+- 2.2 Tiempo de certificacion
+- 3 years
+- 3. Alcance de la certificacion
+- 3. Persona con discapacidad
+- 3.1 Alcance del sistema de gestion
+- 3.2 Personal
+- 3.3 Sitios
+- 4. Aclaraciones SGC
+- 4. Fecha tentativa auditoria inicial
+- 4. Idioma
+- 5. Datos de facturacion
+- 7. Autenticidad
+- 8. Declaracion del cliente
+- <span class=\"o_stat_text\">ONC Form</span>
+- <strong>Applicant:</strong>
+- <strong>ONC Certification Form</strong>
+- <strong>Organization:</strong>
+- <strong>Scheme:</strong>
+- <strong>Scope:</strong>
+- <strong>Service:</strong>
+- <strong>Type:</strong>
+- Acepto los terminos y declaraciones del ONC
+- Aclaracion de firma
+- Acta constitucion fabricante
+- Action Needed
+- Actividades de terceros en el alcance
+- Actividades o procesos
+- Activities
+- Activity Exception Decoration
+- Activity State
+- Activity Type Icon
+- Additional specific regulation documentation
+- Address
+- Address is required.
+- Adjuntos
+- Alcance
+- Alcance propuesto
+- Ampliacion
+- Ampliacion / Reduccion
+- Applicant
+- Applicant Address
+- Applicant City
+- Applicant Email
+- Applicant File Number
+- Applicant Legal Name
+- Applicant address is required.
+- Applicant city is required.
+- Applicant email is required.
+- Applicant meets requirements
+- Applicant name is required.
+- Application form complete
+- Area
+- Area (ej. Direccion)
+- Area (ej. Produccion)
+- At least one site is required.
+- Attachment Count
+- Authenticity
+- Authorized Signatory
+- Authorized signatory is required.
+- Autorizaciones de funcionamiento
+- Billing
+- Billing Contact
+- Billing Email
+- Billing Phone
+- Billing RUC
+- Billing RUC is required.
+- Billing contact is required.
+- Billing email is required.
+- Billing name is required.
+- Billing phone is required.
+- C.I.C.
+- C.I.C. <span class=\"text-danger\">*</span>
+- Cantidad
+- Cargo
+- Cargo contacto <span class=\"text-danger\">*</span>
+- Certificacion ONC
+- Certificado existencia y representacion legal
+- Certificado otro organismo
+- Certificado por otro organismo
+- Certificate of legal existence and representation
+- Certification
+- Certification Period
+- Certification Request Type
+- Certification Scheme
+- Certification period is required.
+- Certification request type is required.
+- Certification scheme is required.
+- Certification scope is required.
+- Certified by Another Body
+- City
+- City is required.
+- Ciudad
+- Ciudad / Pais
+- Ciudad <span class=\"text-danger\">*</span>
+- Commercial Brand
+- Commercial trademark registration
+- Company
+- Completado por
+- Completer Role
+- Completer role is required.
+- Consultancy / Internal Audit Provider
+- Consultoria / auditoria interna contratada
+- Contact Email
+- Contact Person
+- Contact Phone
+- Contact Role
+- Contact email is required.
+- Contact name is required.
+- Contact person is required.
+- Contact phone is required.
+- Contact responsible for managing the request.
+- Contact role is required.
+- Contacto
+- Contacto <span class=\"text-danger\">*</span>
+- Contacto ONC <span class=\"text-danger\">*</span>
+- Contract Number
+- Contract number is required for renewal.
+- Contrato N
+- Copia documento identidad
+- Correo
+- Correo <span class=\"text-danger\">*</span>
+- Correo contacto
+- Correo contacto <span class=\"text-danger\">*</span>
+- Correo electronico
+- Correo electronico <span class=\"text-danger\">*</span>
+- Could not create request.
+- Created by
+- Created on
+- Cual organismo
+- Declaration
+- Declaration Date
+- Declaration Place
+- Declaration date is required.
+- Declaration place is required.
+- Declarations Accepted
+- Detalle SGC
+- Detalle equipos seguridad
+- Detalle otra solicitud
+- Detalle producto similar certificado
+- Direccion
+- Direccion <span class=\"text-danger\">*</span>
+- Direccion entrega factura <span class=\"text-danger\">*</span>
+- Direccion fabrica
+- Disability Detail
+- Display Name
+- Distancia casa matriz de otros sitios
+- Documentacion adicional reglamento
+- Documentacion produccion / SGC
+- Documento normativo de referencia
+- Documents
+- Ej. Soldadura, Electricidad, Refrigeracion
+- Email
+- Email <span class=\"text-danger\">*</span>
+- Email contacto <span class=\"text-danger\">*</span>
+- Email is required.
+- Email representante legal
+- Email representante legal <span class=\"text-danger\">*</span>
+- English
+- Espanol
+- Especificaciones producto
+- Especificar otro periodo
+- Especificar si aplica
+- Esquema Tipo 1b - Lote de Productos
+- Esquema Tipo 2 - Marca de Conformidad
+- Esquema Tipo 4 - Marca de Conformidad
+- Esquema Tipo 5 - Marca de Conformidad
+- Esquema Tipo 6 - Marca INTN Servicios
+- Esquema de certificacion
+- Evaluation tools available
+- Examiner available
+- Excluded Requirements and Justification
+- Expansion
+- Expansion / Reduction
+- Expected Initial Audit Date
+- Fabricante difiere del solicitante
+- Factory Address
+- Facturas a nombre de <span class=\"text-danger\">*</span>
+- Feasibility Notes
+- Feasibility Study (ONC internal)
+- Fecha <span class=\"text-danger\">*</span>
+- Fecha solicitud
+- Firmante autorizado <span class=\"text-danger\">*</span>
+- Followers
+- Followers (Partners)
+- Font awesome icon e.g. fa-tasks
+- Form Completed By
+- Form Completion Date
+- Form completed by is required.
+- Form completion date is required.
+- Free text, e.g. Welding, Electricity, Refrigeration.
+- Full Name
+- Full name is required.
+- Guarani
+- HQ Distance from Other Sites
+- Has Message
+- Headcount
+- Horarios y turnos
+- ID
+- ID Number
+- ID number is required.
+- ISO 9001:2015
+- ISO Certifier
+- ISO QMS Certified
+- Icon
+- Icon to indicate an exception activity.
+- Identificacion de lote
+- Identity document copy
+- Idioma
+- If checked, new messages require your attention.
+- If checked, some messages have a delivery error.
+- Ingles
+- Inicial
+- Initial
+- Invalid ONC service type.
+- Invalid certification scheme.
+- Invoice Delivery Address
+- Invoice To
+- Invoice delivery address is required.
+- Is Follower
+- Language
+- Last Updated by
+- Last Updated on
+- Legal Existence Certificate Attached
+- Legal Name
+- Legal Representative
+- Legal Representative Email
+- Legal representative email is required.
+- Legal representative is required.
+- Legalized power of attorney (foreign companies)
+- Lot identification
+- Lugar <span class=\"text-danger\">*</span>
+- Main Site
+- Management System Certification (ONC-FSG-001)
+- Manager
+- Manufacturer
+- Manufacturer City / Country
+- Manufacturer Contact
+- Manufacturer Differs from Applicant
+- Manufacturer Email
+- Manufacturer Email Contact
+- Manufacturer Legal Name
+- Manufacturer Phone
+- Manufacturer incorporation document
+- Manufacturer name is required.
+- Marca comercial
+- Message Delivery error
+- Messages
+- My Activity Deadline
+- N/A
+- NP 38 002 16
+- NP 38 004 17
+- Next Activity Calendar Event
+- Next Activity Deadline
+- Next Activity Summary
+- Next Activity Type
+- No
+- No ONC form linked to this request type.
+- Nombres y apellidos
+- Nombres y apellidos <span class=\"text-danger\">*</span>
+- Norma
+- Norma / documento referencia
+- Norma...
+- Number of Actions
+- Number of errors
+- Number of messages requiring action
+- Number of messages with delivery error
+- ONC - Certification
+- ONC Certification Requests
+- ONC Certification Reviewer
+- ONC Contact Name
+- ONC Links
+- ONC Person Certification
+- ONC Person Certification Form
+- ONC Person Certification Forms
+- ONC Person Certification Request (ONC-FPE-001)
+- ONC Product Certification
+- ONC Product Certification Form
+- ONC Product Certification Forms
+- ONC Product Certification Request (ONC-FOR-001)
+- ONC System Certification
+- ONC System Certification Form
+- ONC System Certification Forms
+- ONC System Certification Personnel Line
+- ONC System Certification Request (ONC-FSG-001)
+- ONC System Certification Site Line
+- ONC certification request %s created.
+- ONC certification request - %s
+- ONC certification service request created from portal.
+- ONC form record not found.
+- ONC provides requested service
+- ONC-FOR-001 - Solicitud de Certificacion de Productos
+- ONC-FPE-001 - Solicitud de Certificacion de Personas
+- ONC-FSG-001 - Solicitud de Certificacion de Sistemas de Gestion
+- ONC-RG-001
+- ONC-RG-001 conformity statement
+- ONC-RG-008
+- ONC-RG-008 conformity statement
+- ONC: Management System Certification
+- ONC: Person Certification
+- ONC: Person Certification (ONC-FPE-001)
+- ONC: Product Certification
+- ONC: Product Certification (ONC-FOR-001)
+- ONC: System Certification (ONC-FSG-001)
+- Operating Authorizations Attached
+- Operating Authorizations Required
+- Operating authorizations
+- Organismo certificador ISO
+- Organization
+- Organization Personnel Total
+- Organization name is required.
+- Other
+- Other Certification Period
+- Other Certifier Certificate Attached
+- Other Certifier Name
+- Other Language
+- Other Request Detail
+- Other Standard
+- Other certification body certificate copy
+- Other certification period detail is required.
+- Other certifier name is required.
+- Other language detail is required.
+- Other request detail is required.
+- Other standard detail is required.
+- Otra norma
+- Otro idioma
+- Otros
+- Person Certification (ONC-FPE-001)
+- Person with Disability (PCD)
+- Persona de contacto <span class=\"text-danger\">*</span>
+- Personal
+- Personnel
+- Personnel by Area
+- Phone / Fax
+- Phone / Mobile
+- Phone is required.
+- Please specify disability details.
+- Please specify the language.
+- Please specify the standard.
+- Poder legalizado (extranjeras)
+- Portugues
+- Portuguese
+- Pre-audit
+- Pre-auditoria
+- Presentacion / caracteristicas
+- Presentation / Nominal Features
+- Procesos alcance
+- Process Continues
+- Processes / Activities
+- Product / Family / Process / Service
+- Product Certification (ONC-FOR-001)
+- Product specifications
+- Production / QMS documentation
+- Producto / alcance
+- Producto similar certificado
+- Productos y/o servicios
+- Products and/or Services
+- Proposed Certification Scope
+- QMS Clarifications
+- QMS Detail
+- QMS Implementation Time
+- QMS Implemented
+- QMS Personnel Total
+- RUC
+- RUC <span class=\"text-danger\">*</span>
+- Ratings
+- Razon Social
+- Razon Social <span class=\"text-danger\">*</span>
+- Razon social
+- Razon social <span class=\"text-danger\">*</span>
+- Re-evaluacion
+- Re-evaluation
+- Reference Standard
+- Registro marca MIC
+- Registro sanitario INAN/DINAVISA
+- Reglamento especifico
+- Renewal
+- Renovacion
+- Representante Legal
+- Representante Legal <span class=\"text-danger\">*</span>
+- Representante legal
+- Representante legal <span class=\"text-danger\">*</span>
+- Request
+- Request Number (ONC)
+- Request Type
+- Request type is required.
+- Requested Service
+- Requested service is required.
+- Requiere equipos de seguridad para visitas
+- Requisitos excluibles y justificacion
+- Responsible User
+- SMS Delivery error
+- Safety Equipment Detail
+- Safety Equipment Required
+- Safety equipment detail is required.
+- Sanitary registration (INAN/DINAVISA)
+- Scheme Type 1b - Product Lot
+- Scheme Type 2 - Conformity Mark
+- Scheme Type 4 - Conformity Mark
+- Scheme Type 5 - Conformity Mark
+- Scheme Type 6 - INTN Services Mark
+- Scope
+- Scope Processes / Activities
+- Seleccionar esquema...
+- Seleccionar...
+- Sequence
+- Service
+- Service type is required.
+- Servicio solicitado
+- Servicio solicitado <span class=\"text-danger\">*</span>
+- Shifts
+- Si
+- Signatory Clarification
+- Similar Certified Product Detail
+- Similar Certified Product Exists
+- Site 2
+- Site 3
+- Site Kind
+- Sites
+- Sitio
+- Sitio web
+- Spanish
+- Special Needs Detail
+- Special needs can be met
+- Special needs exist
+- Specific regulation conformity statement
+- Standard
+- Standard is required.
+- Subcontracted Venue Detail
+- Subcontracted evaluation venue
+- Submission Date
+- Tax ID (RUC)
+- Tax ID is required.
+- Telefono
+- Telefono / celular
+- Telefono / celular <span class=\"text-danger\">*</span>
+- Telefono / fax
+- Telefono <span class=\"text-danger\">*</span>
+- Telefono contacto <span class=\"text-danger\">*</span>
+- Third-party Activities in Scope
+- Tiempo implementado SGC
+- Tiene SGC implementado
+- Tiene certificacion ISO
+- Tipo / categoria / modelo
+- Tipo solicitud
+- Tipo solicitud <span class=\"text-danger\">*</span>
+- Total personal organizacion
+- Turnos
+- Type / Category / Model / Code
+- Type of the exception activity on record.
+- Verifier available
+- Website
+- Website Messages
+- Website communication history
+- Work Shifts
+- Yes
+- You must accept the declarations.
+
+================================================================================
+MODULO: intn_mrp_oni (265 faltantes)
+================================================================================
+- \"Descripcion del/los item(s) de inspeccion:
+- *Este ACTA debera ser completado en el lugar y momento del muestreo
+- <span class=\"bold\">Direccion:</span>
+- <span class=\"bold\">Dpto. Ejecutor:</span>
+- <span class=\"bold\">Entrada INTN N°</span>
+- <span class=\"bold\">Entrada N°:</span>
+- <span class=\"bold\">Fecha:</span>
+- <span class=\"bold\">Nombre de contacto:</span>
+- <span class=\"bold\">Persona de contacto:</span>
+- <span class=\"bold\">Solicitante:</span>
+- <span class=\"bold\">Telefono:</span>
+- <span class=\"bold\">Teléfono:</span>
+- ABREVIATIONS
+- ABREVIATURAS
+- Abbreviation
+- Abbreviations
+- Abbreviations and Notes
+- Abbreviations and notes
+- Access Token
+- Acta INTN N°
+- Acta INTN N°:
+- Acta de Inspeccion N°
+- Action Needed
+- Activities
+- Activity Exception Decoration
+- Activity State
+- Activity Type Icon
+- Address
+- Applicant and Contact Information
+- Approve
+- Approved
+- Assay reports
+- Assay sequence is not configured.
+- Attachment Count
+- Authorization Period
+- Bodies
+- C.I.,Aclaracion o Sello
+- CERTIFICADO DE INSPECCIÓN
+- CONSTANCIA DE NO REALIZACIÓN DE SERVICIO
+- Cancel
+- Cancelled
+- Capacity
+- Certificado de Inspección
+- Certificate Of Noncompletion
+- Certificate of Noncompletion
+- Certificate of Noncompletion (PDF)
+- Certificate sequence is not configured.
+- Certificates of Noncompletion
+- City
+- Click here to enter text...
+- Client Display Name
+- Confirm
+- Confirmed
+- Constancia de No Cumplimiento
+- Contact Person
+- Contact person
+- Contact phone
+- Created by
+- Created on
+- Customer
+- DATOS DE LA INSPECCION
+- DATOS DEL CLIENTE
+- DESCRIPCION DEL SERVICIO REALIZADO
+- DIRECTOR DEL ONI
+- Date of Receipt
+- Dates of the Process
+- Departamento
+- Department
+- Descripcion
+- Descripcion del item
+- Descripción
+- Description
+- Descriptions
+- Despacho de importación
+- Desperdicio a exportar, en
+- Determination
+- Direccion
+- Dirección
+- Display Name
+- Draft
+- Emission Date
+- End
+- Entrada N°
+- Entry No.
+- Execution Date
+- Execution date
+- Expedient
+- Expediente N°
+- Export product
+- FIRMA DEL/LA SOLICITANTE O TESTIGO DE LA INSPECCION
+- FIRMA DEL/LA<br/>INSPECTOR/A
+- Fecha de ejecucion:
+- Fecha de emisión
+- Fecha de recepcion:
+- Fecha emision
+- Fecha informe:
+- Fecha/s de la inspección
+- Fin de Informe.
+- Fin de inspeccion.
+- Fin del informe.
+- Followers
+- Followers (Partners)
+- Font awesome icon e.g. fa-tasks
+- Has Message
+- Html Block 1
+- Html Block 2
+- Html Block 3
+- Html Block 4
+- ID
+- INFORME DE ENSAYO
+- INFORME DE INSPECCION
+- INFORME DE INSPECCIÓN
+- INFORME DE MUESTREO
+- INFORME DE NO INTERVENCIÓN
+- INTN ONI laboratory
+- INTN entry
+- INTN/
+- Icon
+- Icon to indicate an exception activity.
+- If checked, new messages require your attention.
+- If checked, some messages have a delivery error.
+- Imágenes para reportes ONI
+- Informe Tecnico
+- Informe Tecnico (Maquila)
+- Informe de Ensayo
+- Informe de Inspección
+- Informe de Muestreo
+- Informe de No Intervención
+- Informe/s de Resultado/s
+- Inspected Requirements
+- Inspection Date
+- Inspection certificates
+- Inspection execution date
+- Inspection log sequence is not configured.
+- Inspection logs
+- Inspection report
+- Inspection reports
+- Is Follower
+- Item Identification
+- Item:
+- JEFE DE DEPARTAMENTO
+- Jefa de Departamento
+- Jefe/a de Departamento
+- Lab Registry
+- Laboratory document registry per manufacturing work order
+- Last Updated by
+- Last Updated on
+- Logo auxiliar 1
+- Logo auxiliar 2
+- Logo superior derecho
+- Logo superior izquierdo
+- Lugar de muestreo
+- Lugar/Dpto.
+- Manufacturer
+- Manufacturing Order
+- Message Delivery error
+- Messages
+- Method Applied
+- Methods Used
+- Metodos utilizados:
+- My Activity Deadline
+- MÉTODOS UTILIZADOS
+- NOTAS
+- NOTES
+- Name
+- Name Report Print
+- Next Activity Calendar Event
+- Next Activity Deadline
+- Next Activity Summary
+- Next Activity Type
+- No se encuentra configurada la secuencia de informe de inspección
+- Norma o Metodo Aplicado
+- Notes
+- Number of Actions
+- Number of errors
+- Number of messages requiring action
+- Number of messages with delivery error
+- OBSERVACIONES
+- ONA report
+- ONI
+- ONI Certificate of Noncompletion
+- ONI N°
+- ONI Sampling Report
+- ONI assay report
+- ONI assay report (PDF)
+- ONI assay reports
+- ONI inspection certificate
+- ONI inspection certificate (PDF)
+- ONI inspection certificates
+- ONI inspection log
+- ONI inspection log (PDF)
+- ONI inspection log (act)
+- ONI inspection logs
+- ONI inspection report
+- ONI inspection report (PDF)
+- ONI inspection reports
+- ONI report approver
+- ONI sampling report
+- ONI sampling reports
+- ONI technical maquila report
+- ONI technical maquila report (PDF)
+- ONI technical maquila reports
+- ONI technical report
+- ONI technical report (PDF)
+- ONI technical reports
+- Objeto de la Visita
+- Only draft certificates can be confirmed.
+- Only draft or confirmed certificates can be cancelled.
+- Order Reference
+- Partner state
+- Periodo de autorizacion
+- Phone
+- Ratings
+- Raw Materials
+- Reception date
+- Registro de Inspección
+- Report Date
+- Report Variant
+- Report without ONA
+- Responsible User
+- Result summary
+- Results / Determination
+- SMS Delivery error
+- Sale Order
+- Sampling Place
+- Sampling Report
+- Sampling Report (PDF)
+- Sampling report sequence is not configured.
+- Sampling reports
+- Service Description
+- Solicitante
+- Start
+- State
+- Street
+- Sugerencias y Observaciones
+- Suggestions and observations
+- Technical maquila reports
+- Technical maquila sequence is not configured.
+- Technical report sequence is not configured.
+- Technical reports
+- The certificate is not approved.
+- The log is not approved.
+- The report is not approved.
+- This work order already has an ONI assay report.
+- This work order already has an ONI inspection report.
+- This work order already has an ONI technical maquila report.
+- This work order already has an ONI technical report.
+- Tipo de Informe
+- Type of the exception activity on record.
+- Técnico
+- Técnico/s
+- Unit of measure
+- User
+- Validity (days)
+- Validity Date
+- Validity End
+- Vigencia
+- Visit Purpose
+- Website Messages
+- Website communication history
+- Work order
+- Workorder
+- You do not have permission to perform this action.
+- [NOMBRE Y APELLIDO]
+- [Nombre y Apellido]
+
+================================================================================
+MODULO: intn_portal_registration (235 faltantes)
+================================================================================
+- %s — Service History
+- <span>Lat:</span>
+- <span>Long:</span>
+- <strong>Email:</strong>
+- Altos
+- Antequera
+- Areguá
+- Arroyito
+- Arroyos y Esteros
+- Asunción
+- Ayolas
+- Azotey
+- Bella Vista Norte
+- Bella Vista del Sur
+- Benjamín Aceval
+- Boquerón
+- Borja
+- Branch name is required.
+- Campo Aceval
+- Capiibary
+- Capitán Carmelo Peralta
+- Capitán Mauricio José Troche
+- Capitán Meza
+- Capitán Miranda
+- Caraguatay
+- Carapeguá
+- Carayaó
+- Carlos Antonio López
+- Cedrales
+- Cerro Corá
+- City is required.
+- Colonia Fram
+- Colonia Independencia
+- Colonia Obligado
+- Company email or phone is required.
+- Company name is required.
+- Company type is required.
+- Confirmar contraseña <span style=\"color:red\">*</span>
+- Contact email is required.
+- Contact name is required.
+- Contact person must have name, email, and phone.
+- Contact phone is required.
+- Contacts under company %(company)s must have: %(fields)s.
+- Contraseña <span style=\"color:red\">*</span>
+- Coronel José Félix Bogado
+- Cruce Liberación
+- Curuguaty
+- Customer origin is required.
+- Desmochados
+- Doctor Cecilio Báez
+- Doctor Juan Eulogio Estigarribia (C9)
+- Doctor Juan León Mallorquín
+- Doctor Juan Manuel Frutos (Pastoreo)
+- Doctor Moisés Santiago Bertoni
+- Doctor Raúl Peña
+- Domingo Martínez de Irala
+- Ecommerce
+- Edelira
+- El campo Celular es obligatorio.
+- El campo Correo Electrónico es obligatorio.
+- El campo RUC es obligatorio.
+- El campo Razón Social / Nombre es obligatorio.
+- Email
+- Email *
+- Email is required.
+- Emboscada
+- Encarnación
+- Eusebio Ayala
+- Filadelfia
+- Fuerte Olimpo
+- Fulgencio Yegros
+- Félix Pérez Cardozo
+- General Delgado
+- General Elizardo Aquino
+- General Francisco Caballero Álvarez (Puente Kyjha)
+- General Higinio Morínigo
+- General José María Bruguez
+- Geolocation
+- Guarambaré
+- Guayaibí
+- Guazú Cuá
+- Headquarters can only be set on companies, not contacts.
+- Hohenau
+- Horqueta
+- Humaitá
+- INTN
+- Identification (VAT)
+- Identification Number is required.
+- Independencia
+- Iruña
+- Itacurubí de la Cordillera
+- Itacurubí del Rosario
+- Itanará
+- Itapé
+- Itapúa Poty
+- Itauguá
+- Iturbe
+- Jesús
+- José A. Fassardi
+- José Domingo Ocampos
+- José Falcón
+- José Leandro Oviedo
+- Juan Emiliano O'Leary
+- Julián Augusto Saldívar
+- Katueté
+- La Colmena
+- La Paloma del Espíritu Santo
+- La Pastora
+- Lambaré
+- Latitude
+- Laurel
+- Lima
+- Loading Plant
+- Loma Grande
+- Loma Plata
+- Longitude
+- Loreto
+- Los Cedrales
+- Maracaná
+- Mariscal José Félix Estigarribia
+- María Antonia
+- Mbaracayú
+- Mbocayaty del Guairá
+- Mbocayaty del Yhaguy
+- Mbuyapey
+- Minga Porá
+- Name is required.
+- Nanawa
+- Natalicio Talavera
+- Nueva Alborada
+- Nueva Asunción
+- Nueva Esperanza
+- Nueva Germania
+- Nueva Italia
+- Nueva Londres
+- Nueva Toledo
+- Obligado
+- Paraguarí
+- Paraguay
+- Paso Horqueta
+- Paso de Patria
+- Personería is required.
+- Phone or Mobile is required.
+- Pick location on map
+- Pick on map
+- Pirayú
+- Piribebuy
+- Pozo Colorado - General Luis Irrazábal
+- Presidente Franco
+- Puerto Adela
+- Puerto Casado
+- Puerto Pinasco
+- Puerto Rosario
+- Quyquyhó
+- Razón Social / Nombre <span style=\"color:red\">*</span>
+- Razón Social o Nombre
+- Raúl Arsenio Oviedo
+- Regimiento de Infantería Tres Corrales
+- Repatriación
+- San Antonio
+- San Bernardino
+- San Cristóbal
+- San Estanislao (Santani)
+- San Joaquín
+- San José Obrero
+- San José de los Arroyos
+- San Juan Bautista
+- San Juan Nepomuceno
+- San Juan del Paraná
+- San Lázaro
+- San Pablo
+- San Patricio
+- San Pedro del Paraná
+- San Rafael del Paraná
+- San Roque González de Santa Cruz
+- San Vicente Pancholo
+- Santa Fe del Paraná
+- Santa María de Fe
+- Santa Rosa del Aguaray
+- Santa Rosa del Mbutuy
+- Sargento José Félix López
+- Selected city does not belong to the selected country.
+- Selected city does not belong to the selected department.
+- Service History
+- Service Requests
+- Simón Bolívar
+- Sync establishments from RUC
+- Sync establishments from RUC lookup
+- Tacuaras
+- Tacuatí
+- Tavapy
+- Tavaí
+- Tebicuarymí
+- Teléfono
+- Tembiaporá
+- Teniente Esteban Martínez
+- Teniente Primero Manuel Irala Fernández
+- Timeout, in seconds, for RUC service HTTP requests.
+- Tobatí
+- Tomás Romero Pereira
+- Trinidad
+- Tu correo <span style=\"color:red\">*</span>
+- Unipersonal counterparts must use the same VAT / RUC.
+- Unión
+- Vaquería
+- Villa Elisa
+- Villa Florida
+- Villa Franca
+- Villa Hayes
+- Villa Oliva
+- Villa Ygatimí
+- Villa del Rosario
+- Villalbín
+- Villeta
+- Yabebyry
+- Yaguarón
+- Yasy Cañy
+- Yataity del Guairá
+- Yataity del Norte
+- Yatytay
+- Yby Pytá
+- Yby Yaú
+- Ybycuí
+- Ybyrarobaná
+- Ybytymí
+- Yguazú
+- Yhú
+- Ypejhú
+- Yrybucuá
+- Yuty
+- Zanja Pytá
+- https://siyopude.com/ruc/
+- Ñacunday
+- Ñemby
+- Ñumí
+
+================================================================================
+MODULO: intn_fleet_cistern_verification (226 faltantes)
+================================================================================
+- %(label)s: %(old)s -> %(new)s
+- %s days
+- 'Prueba Hidrostatica - %s' % (object.name)
+- 'Rechazo Verificación Visual - %s' % (object.name)
+- 'Verificación Visual - %s' % (object.name)
+- 1Z
+- 2Z
+- 3Z
+- <span class=\"o_stat_text\">Create Inspection Certificate</span>
+- <span>*LIE (Límite Inferior de Explosividad)</span>
+- <strong>Año Fab. Remolque:</strong>
+- <strong>Año:</strong>
+- <strong>Capacidad:</strong>
+- <strong>Chapa N°:</strong>
+- <strong>Chapa Remolque:</strong>
+- <strong>Chasis N°:</strong>
+- <strong>Chasis Remolque:</strong>
+- <strong>Chasis:</strong>
+- <strong>Ciudad:</strong>
+- <strong>Compartimientos:</strong>
+- <strong>Compañía/Emblema:</strong>
+- <strong>Código N°:</strong>
+- <strong>Códigos de producto ONU:</strong>
+- <strong>DETALLES DE LA PRUEBA TÉCNICA</strong>
+- <strong>Departamento:</strong>
+- <strong>Dirección:</strong>
+- <strong>Duración (horas):</strong>
+- <strong>Ensayo hidrostático:</strong>
+- <strong>Expediente N°:</strong>
+- <strong>Fecha Emisión:</strong>
+- <strong>Fecha Vencimiento:</strong>
+- <strong>Fecha Verificación:</strong>
+- <strong>Fecha de inspección:</strong>
+- <strong>Grupo de productos:</strong>
+- <strong>Marca Remolque:</strong>
+- <strong>Marca:</strong>
+- <strong>Motivo de imposibilidad:</strong>
+- <strong>Motivo de rechazo:</strong>
+- <strong>Nombre o Razón Social:</strong>
+- <strong>N° Manómetros:</strong>
+- <strong>Presión Proyecto (kPa):</strong>
+- <strong>Presión de prueba:</strong>
+- <strong>Prueba de fugas:</strong>
+- <strong>RUC:</strong>
+- <strong>Resultado:</strong>
+- <strong>Resultado:</strong> <br/>
+- <strong>Solicitante:</strong>
+- <strong>Solicitud:</strong>
+- <strong>Validez del Informe: 12 Meses</strong>
+- <strong>Vehículo:</strong>
+- <strong>Verificado con Válvula Interna:</strong>
+- <strong>Verificado con Válvulas Internas:</strong>
+- ALCANCE
+- Above 10% LIE
+- Access Token
+- Aggregated cistern tank inspection certificate (LIE)
+- All verification items must be checked.
+- Altura espacio lleno (mm)
+- Altura espacio total (mm)
+- Altura espacio vacío (mm)
+- Applicant State
+- Apply Document Correction
+- Assign Seals
+- At least one confirmed tank inspection is required.
+- Año
+- Below 10% LIE
+- C1
+- C2
+- C3
+- C4
+- CERTIFICADO DE INSPECCIÓN
+- CERTIFICADO DE VERIFICACIÓN DE CAMIÓN TANQUE VCC N°
+- COMPARTIMIENTOS (Numerados a partir de la cabina)
+- CUMPLE
+- Campo Obligatorio
+- Cannot approve the inspection when items do not comply.
+- Capacidad
+- Capacidad Nominal del Tanque de Carga
+- Capacidad y dimensiones
+- Carrier company address
+- Carrier company name
+- Carrier company phone
+- Carrier truck code
+- Certificado de Registro de Medición
+- Certificate Change
+- Chapa de Remolque
+- Ciudad:
+- Compart. Inspeccionados
+- Compartimientos
+- Compartment %s
+- Compañía
+- Confirm Rejection
+- Confirm the tank inspection before confirming the measurement record.
+- Constancia de verificación visual y documental N°
+- Could not generate the certificate PDF for %s.
+- Código
+- DATOS DE INSPECCIÓN
+- DATOS DEL CLIENTE
+- DNIS N°
+- Departamento:
+- Dimensiones del Tanque
+- Dimensiones del Tanque (mm)
+- Dimensión (pulg.)
+- Dirección
+- Documental Verification
+- Documental: Chassis number
+- Documental: License plate
+- Duration
+- El campo \"Certificado de Prueba Hidrostática\" no puede estar vacío.
+- El campo \"Presión de Prueba (kPa)\" no puede estar vacío.
+- El campo \"Resultado\" no puede estar vacío.
+- El campo \"Tiempo de Duración\" no puede estar vacío.
+- Emblem identification
+- Emblema
+- Enter the rejection reason...
+- Entrada N°
+- Expedients
+- FOR-N-03
+- Fecha de Emisión
+- Fecha de Inspección
+- Fecha de Vencimiento
+- Fecha de Verificación
+- Fecha:
+- Folio N°
+- Hydrostatic certificate type not found.
+- Hydrostatic test certificate is missing.
+- IDENTIFICACIÓN DE LOS ÍTEMS
+- INFORME DE PRUEBA HIDROSTATICA - ESTANQUEIDAD
+- INSPECCIÓN DE TANQUE CISTERNA (Desgasificación)
+- Impossibility reason is required when result is 'Impossibility'.
+- Impossibility reason is required.
+- Informe de Prueba Hidrostatica-Estanqueidad
+- Inspección de tanque cisterna
+- Inspection %(name)s is already linked to certificate %(cert)s.
+- Inspection Checklist
+- Inspection Line
+- Inspection Line Reject Wizard
+- Inspection result is required.
+- Internal valve condition
+- JEFE/A DE DEPARTAMENTO
+- LIE
+- License plate number of the vehicle (i = plate number for a car)
+- Mandatory inscriptions verification
+- Marca del Vehículo
+- Marca del tanque
+- Matrícula/Camión
+- Matrícula/Cisterna
+- Measurement record is required when certificate change is requested.
+- Medidas internas
+- MÉTODOS DE INSPECCIÓN
+- NO CUMPLE
+- Neumáticos
+- Nombre o Razón Social
+- N° de Compartimientos
+- Número de Chapa
+- Número de Chasis
+- Número de Código
+- ONI N°
+- ONM Section
+- ONM-RTM-05 Reglamento Técnico Metrológico
+- ORGANISMO NACIONAL DE METROLOGIA
+- Observaciones de incumplimiento
+- Observación
+- Observation is required when an item does not comply.
+- Only confirmed measurement records can be cancelled.
+- Only draft hydrostatic tests can be confirmed.
+- Only draft measurement records can be confirmed.
+- Organismo Nacional de Inspección (ONI)
+- Organismo Nacional de Metrología (ONM)
+- PRO-N-05 Inspección de tanque cisterna
+- Please select an inspection result before creating the certificate.
+- Precintos Permanentes en compartimientos
+- Presión (psi)
+- QR
+- REFERENCIA DE TOMA DE MEDIDA DEL CAMION TANQUE
+- REGISTRO DE MEDICIÓN
+- RESULTADOS DE LA INSPECCIÓN
+- RUC
+- Ref
+- Registro de Inspección
+- Registro de Inspección N°
+- Registro de Medición
+- Reject Item
+- Rejection PDF
+- Rejection reason is required.
+- Rejection requires at least one item marked as non-compliant.
+- Seal Remission
+- Seal state verification
+- Sin observaciones por ítem registradas.
+- Solicitante
+- Tank and Tire Dimensions
+- Tank condition (external)
+- Tank condition (internal)
+- Tank inspection certificate type is not configured.
+- Tank inspection certificates cannot be deleted; cancel them instead.
+- Tank inspection must be confirmed first.
+- Tank inspection records cannot be deleted; cancel them instead.
+- Tank inspection requires a confirmed visual verification.
+- Tire condition
+- Truck Data
+- Truck Identification Verification
+- Truck State Verification
+- TÉCNICO DE INSPECCIÓN
+- UNIDAD DE METROLOGIA LEGAL - UMLE
+- Use action_confirm() for non-approved results.
+- User who marked this procedure check (success or failure).
+- Vehicle is required to create certificate.
+- Vehicle is required to start visual verification.
+- Verificación Visual de Camiones
+- Verification Checklist
+- Verification Items
+- Verification certificate type not found.
+- Verify chassis on documentation matches the vehicle record.
+- Verify license plate on documentation matches the vehicle record.
+- Verify mandatory tank inscriptions are present and legible.
+- Verify seal condition and integrity visually.
+- Versión
+- Vigencia
+- Visual Verification Rejection - %s
+- Visual Verification Rejection Report
+- Visual Verification Result
+- Visual verification rejected. Reason: %s
+- Visual verification rejection report generated.
+- X
+- mm
+- Ítem
+
+================================================================================
+MODULO: intn_mrp_metci (163 faltantes)
+================================================================================
+- 'control_ingreso_instrumentos_%s' % (object.name)
+- 'etiqueta_instrumento_%s' % (object.intake_id.name)
+- <strong>Calibrado:</strong>
+- <strong>Compromiso de Entrega:</strong>
+- <strong>Contacto:</strong>
+- <strong>Email:</strong>
+- <strong>Fecha:</strong>
+- <strong>Notas Generales:</strong>
+- <strong>N° de Expediente:</strong>
+- <strong>Observaciones:</strong>
+- <strong>R.U.C.:</strong>
+- <strong>Razón Social:</strong>
+- <strong>Tel/Fax:</strong>
+- A product to manufacture is required.
+- Active
+- Actualizar
+- Actualizar Cantidades
+- Approve document
+- Aprobar METCI
+- Aprobar Presupuesto
+- Brand
+- Budget Approved
+- CONTROL DE INGRESO DE INSTRUMENTOS
+- Calibrated
+- Calibration
+- Calibration Request
+- Calibration Request Count
+- Calibration Requests
+- Calibration State
+- Cancelar
+- Cantidad
+- Client Identifier
+- Cliente:
+- Company Name
+- Compromiso de Entrega
+- Configuración
+- Confirmar
+- Contact
+- Control Ingreso Nº:
+- Control de Ingresos
+- Control de Retiro
+- Crear Control de Ingreso
+- Crear Orden de Producción
+- Date
+- Delivered Quantity
+- Delivered qty: %s
+- Delivery Commitment Date
+- Delivery Commitment Hour
+- Detalle de Instrumentos
+- Document
+- Document Name
+- Document Review
+- Document review
+- Email
+- Expedient
+- Firmas
+- HTML
+- Historial Salida
+- Identificación
+- Identification
+- Información General
+- Ingreso:
+- Instituto Nacional de Tecnología, Normalización y Metrología
+- Instrument
+- Instrument Intakes
+- Instrument Lines
+- Instrumento
+- Instrumento:
+- Instrumentos
+- Intake
+- Intake Count
+- Intake History
+- Intake Line
+- Intake Quantity
+- Intakes
+- Item
+- Laboratory does not belong to your organism.
+- Lines
+- METCI
+- METCI Calibration Request
+- METCI Instrument
+- METCI Instrument Brand
+- METCI Instrument Intake
+- METCI Instrument Intake Line
+- METCI Instrument Intake Line History
+- METCI Instrument Intake Quantity Wizard
+- METCI Instrument Intake Quantity Wizard Line
+- METCI Instrument Label
+- METCI Instrument Model
+- Marcas
+- Model
+- Modelos
+- Name
+- No
+- No METCI service requests match the selected filters.
+- No METCI service requests to analyze yet.
+- Notas y Observaciones
+- Notes
+- ORGANISMO NACIONAL DE METROLOGÍA
+- Observations
+- Observe
+- Onsite Verification
+- PDF
+- Partial Pickup
+- Partial Pickup Date
+- Partial Pickup ONM ID
+- Partial Pickup ONM Name
+- Partial Pickup User ID
+- Partial Pickup User Name
+- Pending Quantity
+- Phone
+- Pickup
+- Pickup Date
+- Pickup History
+- Pickup Method
+- Product to Manufacture
+- Production
+- Production Count
+- Range / Max Capacity
+- Received ID Number
+- Received Signature
+- Received Signature Name
+- Recibí Conforme
+- Reject document
+- Reset review
+- Resolution
+- Retiro Parcial
+- Retiro Total
+- Review comment
+- Review date
+- Reviewed by
+- Serial Number
+- Service Requests
+- Servicios
+- Set a laboratory or organism before confirming the request.
+- Si
+- Solicitud de Calibración
+- State
+- Tax ID
+- Third Party
+- Third Party Document
+- Third Party Name
+- Total Pickup Date
+- Total Pickup ONM ID
+- Total Pickup ONM Name
+- Total Pickup User ID
+- Total Pickup User Name
+- Unique Identifier
+- Update Delivered Quantities
+- User ID Number
+- User Signature
+- User Signature Name
+- Users to Notify
+- Usuario
+- Wizard
+- Work Center
+- Work Date
+- Work Not Performed
+- Work Order Scheduled
+- You are not allowed to access METCI requests from another organism.
+- You cannot create METCI service requests outside your organisms.
+- Ítem
+- Órdenes de producción
+
+================================================================================
+MODULO: intn_portal_fleet_requests (159 faltantes)
+================================================================================
+- <strong>Contact:</strong>
+- <strong>Mobile:</strong>
+- <strong>Request Date:</strong>
+- <strong>Tipo de Transporte:</strong>
+- Acoplado
+- Adjuntar archivo
+- Approve document
+- Attendance Confirmed
+- Attendance Confirmed On
+- Authorized Driver Email
+- Authorized Driver ID
+- Authorized Driver Name
+- Authorized Driver Phone
+- Authorized driver ID is required.
+- Authorized driver name is required.
+- Back
+- Camion
+- Cancelar
+- Cancelar solicitud
+- Cancellation notice period (hours)
+- Capacidad Nominal del Tanque de Carga
+- Cerrar
+- Certificate Modification
+- Certificate Modification Type
+- Certificate modification type is required.
+- Cistern processes are only available for fleet requests.
+- Confirm the visual verification before creating the tank inspection.
+- Confirmar cancelación
+- Contact Email
+- Contact ID Document
+- Contact ID is required.
+- Contact email is required.
+- Contact name is required.
+- Contado
+- Correo Electrónico
+- Credito
+- Current Data
+- Cédula
+- DINATRAN habilitation document (back)
+- DINATRAN habilitation document (front)
+- Datos Basicos
+- Datos actuales
+- Datos de Conductor Autorizado
+- Datos del Representante Legal de la Empresa
+- Datos del contacto de la empresa
+- Declaracion jurada
+- Document Review
+- Documento
+- Each equipment line must include at least one technical sheet file.
+- Emblem
+- Emblem / company note
+- Emblem change applied on completion. Emblem: %s -> %s | Code: %s -> %s
+- Emblema actual
+- Enviar solicitud
+- Fecha de agendamiento
+- Filtra los camiones y acoplados registrados para la sucursal.
+- Finalize
+- Fleet No Show
+- Fleet No Show Date
+- Fleet Scheduling Restriction Active
+- Fleet Service: Certificate Modifications
+- Fleet Service: Eventual Verification
+- Fleet: Certificate Modifications
+- Fleet: Eventual Verification
+- Formulario no disponible para este servicio.
+- Front
+- Green ID card (back)
+- Green ID card (front)
+- HPM dangerous goods permit card (back)
+- HPM dangerous goods permit card (front)
+- Habilitation Expiry Date
+- Habilitation Number
+- Habilitation certificate (back)
+- Habilitation certificate (front)
+- Hora
+- Instrument %(index)s: %(label)s is required.
+- Instrument %(index)s: Model does not belong to the selected brand.
+- Instrument %(index)s: Nozzle Count must be at least 1.
+- Instrument Type
+- Internacional
+- Invalid certificate modification type.
+- Legal Representative Email
+- Legal Representative ID
+- Legal Representative Name
+- Legal Representative Phone
+- Legal representative ID is required.
+- Legal representative email is required.
+- Legal representative name is required.
+- Los documentos requeridos dependen del tipo de solicitud seleccionado.
+- Los días sin cupo aparecen deshabilitados.
+- Manufacturer
+- Manufacturing Year
+- Marcar inasistencia
+- Model approval request %s created.
+- Model approval request - %s
+- Model approval request from portal.
+- Nacional
+- New Company Name
+- New Emblem
+- New RUC
+- New RUC is required.
+- New RUC must differ from the current RUC.
+- New company name is required.
+- New company name must differ from the current name.
+- New emblem is required.
+- New emblem must differ from the current emblem.
+- No puede seleccionar fuera del horario establecido por INTN: %s
+- Nombre
+- Nombre de contacto
+- Nominal Loading Tank Capacity
+- Nominal loading tank capacity
+- Nueva razón social
+- Nuevo Camión Tanque
+- Nuevo RUC
+- Nuevo acoplado
+- Nuevo emblema
+- Nuevos datos
+- Observe
+- Operating Range
+- Operational result that gates sealing/label issuance.
+- Organization, department, and service category are required.
+- Previous Company Name
+- Previous Emblem
+- Previous RUC
+- Previous RUC is required.
+- Previous company name is required.
+- Previous emblem is required.
+- Previous verification certificate
+- Principal
+- Producto a ser transportado
+- RUC actual
+- Razón social actual
+- Reject document
+- Requested Changes
+- Reset review
+- Se completa al seleccionar vehiculo
+- Se completa automaticamente al seleccionar el vehiculo.
+- Seleccionar acoplado
+- Seleccionar camion
+- Seleccionar fecha y hora
+- Seleccionar producto
+- Seleccionar tipo
+- Select an emblem
+- Serial Number
+- Service requests are used to schedule vehicle verification services.
+- Siguiente: Adjuntos
+- Sucursal
+- Telefono de contacto
+- Teléfono
+- This report is not available until the related service is paid.
+- Ticket
+- Tipo de Modificación
+- Tipo de Transporte
+- Tipo de factura
+- Tipo de modificación
+- Total estimado del servicio:
+- Volver
+- Volver: Datos Basicos
+- ¿Está seguro de que desea cancelar esta solicitud?
+
+================================================================================
+MODULO: intn_fleet_seal_ranges (132 faltantes)
+================================================================================
+- 'Seal_Issuance_%s' % (object.name or '')
+- <strong>Online verification</strong>
+- Action Needed
+- Active
+- Activities
+- Activity Exception Decoration
+- Activity State
+- Activity Type Icon
+- Add at least one delivered seal number.
+- Attachment Count
+- Audit summary of expected vs delivered seals.
+- Available
+- Cancel
+- Cancelled
+- Cannot confirm issuance: measurement certificate is missing.
+- Cannot confirm issuance: the measurement certificate must be approved.
+- Closed
+- Confirm
+- Confirmed
+- Created by
+- Created on
+- Delivered By
+- Delivered Seals
+- Delivered: %s
+- Differences
+- Display Name
+- Draft
+- Driver or person who delivered the seals for homologation.
+- Duplicate seal number in the same homologation is not allowed.
+- Expected From
+- Expected To
+- Expected: %s
+- Expedient
+- Extra: %s
+- Fine
+- Followers
+- Followers (Partners)
+- Font awesome icon e.g. fa-tasks
+- From
+- Has Message
+- Homologation
+- Homologation is only applicable to annual verification requests.
+- Homologation record for annual verification seal delivery.
+- Homologation status for annual verification seal delivery.
+- Homologations
+- ID
+- Icon
+- Icon to indicate an exception activity.
+- If checked, new messages require your attention.
+- If checked, some messages have a delivery error.
+- Invalid range: 'To' must be >= 'From'.
+- Is Follower
+- Issuance
+- Issuance Number
+- Issuances
+- Issued From
+- Issued From/To must be both set or both empty.
+- Issued Range
+- Issued To
+- Issued To must be >= Issued From.
+- Issued range size must match quantity.
+- Label
+- Last Updated by
+- Last Updated on
+- Matched
+- Matched. Expected: %s
+- Message Delivery error
+- Messages
+- Mismatched
+- Missing: %s
+- My Activity Deadline
+- Next Activity Calendar Event
+- Next Activity Deadline
+- Next Activity Summary
+- Next Activity Type
+- Next Number
+- Next number to be issued from this range.
+- Not Required
+- Not enough numbers available in this range.
+- Number of Actions
+- Number of errors
+- Number of messages requiring action
+- Number of messages with delivery error
+- Only draft issuances can be confirmed.
+- Organism
+- Partially Used
+- Pending
+- Previous Annual Issuance
+- Previous annual issuance not found for this vehicle.
+- Quantity
+- Quantity must be greater than zero.
+- Range
+- Range numbers must be positive.
+- Ranges
+- Ratings
+- Regulatory organism governing this service (e.g. ONM/ONC/ONI).
+- Reset
+- Responsible User
+- Ring
+- SMS Delivery error
+- Seal
+- Seal / Label Issuance
+- Seal Homologation
+- Seal Homologation Line
+- Seal Homologations
+- Seal Issuance
+- Seal Issuances
+- Seal Number
+- Seal Range
+- Seal Ranges
+- Seal mismatch: delivered seals do not match expected set.
+- Seal number must be positive.
+- Seal/Label Issuance
+- Seal/Label Range
+- Seals / Labels
+- Series
+- Series prefix, e.g. S.
+- Service request is required.
+- State
+- This issuance is already allocated.
+- This range is exhausted.
+- This range is not available for issuance.
+- To
+- Type
+- Type of the exception activity on record.
+- Used
+- Validate
+- Vehicle
+- Vehicle is required for homologation.
+- Website Messages
+- Website communication history
+- You cannot reset a range that has already been used.
+
+================================================================================
+MODULO: intn_service_request (129 faltantes)
+================================================================================
+- %s — Service History
+- <option value=\"\">Seleccionar camión</option>
+- <option value=\"\">Seleccionar producto</option>
+- <option value=\"\">Select an emblem</option>
+- <span class=\"text-danger ms-1\">*</span>
+- <strong>Review comment:</strong>
+- A service type key is required when not using category default.
+- Acoplado <span class=\"text-danger\">*</span>
+- Attachments
+- Backend
+- Beneficiary
+- Camión <span class=\"text-danger\">*</span>
+- Cancelled service requests cannot be finalized.
+- Category default rows must not set a service type key.
+- Category:
+- Certificates
+- Choose fleet or metrology to match service requests.
+- Commercial Status
+- Companies
+- Contact acting as manager for this expediente.
+- Contact responsible for managing the request.
+- Create
+- Create a new catalog row for another service type or location scope.
+- Customer:
+- Deprecated: legacy QWeb layout. Use portal_form_view_id instead.
+- Disable to hide the row without deleting it.
+- Document
+- Document Review Mixin
+- Document Review Observed (Certificate)
+- Document Review Observed (Service Request)
+- Document Review Rejected (Certificate)
+- Document Review Rejected (Service Request)
+- Document review reset to pending for a new review cycle.
+- Documentation observed
+- Documentation observed - {{ object.name }}
+- Documentation rejected
+- Documentation rejected - {{ object.name }}
+- Duplicate catalog for this category, type, and location scope.
+- Duplicate portal form layout for this category and service type.
+- Dynamic Form Show Lines
+- Dynamic Form Ui Variant
+- Email on observed or rejected documentation
+- Email when service is finalized
+- Extra product template added as a sale order line.
+- Field %s is required.
+- Finalized
+- Fleet or metrology; must match the service request category.
+- Fleet: in situ, laboratory, or Any. Metrology rows usually use Any.
+- Form layout
+- Form layouts
+- Form target
+- INTN Document Reviewer
+- Internal label for this catalog row.
+- Invalid service catalog selection.
+- Invoiced - In Payment
+- Invoiced - Not Paid
+- Invoiced - Paid
+- Invoiced - Partially Paid
+- Legal entity that will receive the service and be invoiced.
+- Main product template on the sale order for this service.
+- Manager
+- Max overdue invoices for new service requests
+- Must match the selection key on service requests for this family.
+- Must match the service category on portal service requests.
+- No Show
+- Not Invoiced
+- Nueva Solicitud de servicio %s
+- Nuevo Camión Tanque
+- Nuevo acoplado
+- OIAT
+- Only one category default layout is allowed per service category.
+- Open request
+- Picos de Surtidores
+- Portal
+- Portal Create Handler
+- Portal Form Config
+- Portal Form View
+- Portal OWL Component Key (legacy)
+- Portal Reports Enabled At
+- Portal and backend
+- Primary product template on the sale order for this service.
+- Primary product template used on the portal sale order line.
+- Principal
+- QWeb Template Xml ID
+- Quotation
+- Quotation Sent
+- Request Type Label
+- Require approved documentation before confirmation
+- Reset review
+- Se completa al seleccionar vehículo
+- Selection key for service_type when not using category default.
+- Send email when service is finalized
+- Serialized UI config for OWL portal forms.
+- Service History
+- Service Location
+- Service Request Finalized
+- Service Request Portal Autofill Mixin
+- Service Request Portal Form Catalog Mixin
+- Service Request Portal Form Engine Mixin
+- Service Request Portal Form Engine Request Mixin
+- Service catalog does not match the service category.
+- Service catalog tour
+- Service configuration
+- Service form layouts
+- Service request not found
+- Service type:
+- Short internal name for this catalog row.
+- Sign in to submit documentation corrections.
+- Siguiente: Adjuntos
+- Siguiente: Adjuntos <i class=\"fa fa-arrow-right ms-2\"/>
+- Start the guided tour for this screen
+- Submit corrections
+- Sucursal
+- The customer submitted documentation corrections for review.
+- The service request cannot be finalized.
+- Tickets
+- Tipo de factura <span class=\"text-danger\">*</span>
+- Trailers
+- True when the service catalog layout targets the backend form.
+- Uncheck to hide the row without deleting it.
+- Upload at least one corrected file before submitting.
+- Upload corrected files below, then submit so INTN can review again.
+- Upload file
+- Use Backend Dynamic Form
+- Vehicles
+- When set, this row applies when no service type is selected on GET.
+- You cannot update this document.
+- Your documentation is pending review by INTN.
+- Your service is ready - {{ object.name }}
+
+================================================================================
+MODULO: intn_fleet_cistern (128 faltantes)
+================================================================================
+- A vehicle can only have one active trailer assignment.
+- A vehicle cannot be its own trailer.
+- A vehicle with VIN/Chassis number %s already exists.
+- A vehicle with license plate %s already exists.
+- Access denied
+- Access denied.
+- Action
+- An error occurred: %s
+- Archived vehicles cannot be edited.
+- Assembly Plant
+- Año fabricación
+- Brand is required.
+- Brand, body style, engine type, and model series
+- Brand:
+- Capacidad Nominal del Tanque de Carga
+- Capacity (liters)
+- Capacity (liters):
+- Capacity is required for each compartment.
+- Change Reason
+- Chasis (VIN)
+- Chassis number is required.
+- Check Digit
+- Cistern Chassis (VIN)
+- Cistern Model
+- Cistern Plate:
+- Cistern brand is required.
+- Cistern chassis number is required.
+- Cistern manufacturing year is required.
+- Cistern model is required.
+- Cistern not found.
+- Cistern plate is required.
+- Company is required.
+- Compartimientos
+- Compartment Capacities
+- Compartment Number
+- Compartment number must be unique per vehicle.
+- Compartment numbers must be sequential from 1 to %s.
+- Country, manufacturer, and vehicle type/division
+- Date End
+- Date Start
+- Driver:
+- ECOP
+- Each compartment capacity must be greater than zero.
+- Emblem code %(code)s is already used for emblem %(emblem)s.
+- Emblem is required.
+- Emblema ECOP (referencia v12)
+- Emblems are used to identify and categorize cistern vehicles.
+- End date must be greater than or equal to start date.
+- Fleet Vehicle Compartment
+- Fleet Vehicle Tractor History
+- ID de marca
+- ID de modelo
+- Invalid model selection.
+- Invalid truck selection.
+- Legacy uniform capacity; kept in sync when all compartments match.
+- License Plate:
+- License plate is required
+- License plate is required.
+- Loading...
+- Manufacturing plant where the vehicle was assembled
+- Manufacturing year is required.
+- Marca
+- Matrícula
+- Matrícula de cisterna
+- Model
+- Model Year
+- Model is required
+- Model is required.
+- Model year code
+- Model:
+- Modelo
+- My trailers
+- My vehicles
+- New tractor
+- No active tractor is linked to this cistern.
+- No trailers found.
+- No vehicles found.
+- Nominal Capacity per Compartment
+- Nominal tank load capacity is required.
+- Nominal total tank load capacity is required.
+- Non-standardized chassis number (pre-1981 vehicles)
+- Number of compartment capacity lines must match compartment count.
+- Number of compartments must be between 1 and 7.
+- Owner change
+- Portal fleet driver partners
+- Portal users can view and manage their own vehicles and trailers
+- Pre-1981 Chassis Number
+- Reassignment from another tank
+- Security code to verify VIN authenticity
+- Sequence
+- Sequential Production Number
+- Set when created from portal until staff validates the record.
+- State
+- State:
+- Status
+- Tank Data
+- Tank Vehicle
+- The chassis number (VIN) cannot be changed once it has been saved.
+- The cistern plate must be unique. Vehicle %s already uses this plate.
+- The license plate must be unique. Vehicle %s already uses this plate.
+- The selected vehicle is not a trailer.
+- This document does not exist.
+- Tractor
+- Tractor Truck Data
+- Tractor unlink is only available for cisterns (trailers).
+- Tractor unlinked
+- Tractor unlinked from cistern.
+- Truck Code
+- Truck code %(code)s is already used for company %(company)s.
+- Truck code %(code)s is already used for emblem %(emblem)s.
+- Truck code is required.
+- Truck code must contain only letters and numbers.
+- Truck license plate and cistern plate cannot be the same.
+- Unique production sequence number for this vehicle
+- Unsupported portal page.
+- VDS (Vehicle Description Section)
+- VIN (Chassis Number)
+- VIN/Chassis
+- VIN/Chassis Number:
+- Vehicle deactivated.
+- Vehicle not found
+- Vehicle not found.
+- View
+- View Details
+- View VIN Details
+- WMI (World Manufacturer Identifier)
+- You cannot assign this vehicle to that company.
+- You don't have access to this vehicle.
+
+================================================================================
+MODULO: intn_portal_oiat_service_request (103 faltantes)
+================================================================================
+- AVISO IMPORTANTE DE CALIDAD
+- Acción
+- Active
+- Activos
+- Agregar Servicio
+- Agregue al menos un servicio antes de enviar.
+- Aún no ha agregado servicios. Complete los datos y presione
+- Batch Number
+- Campo opcional. Formatos: PDF, JPG, PNG.
+- Cantidad a Certificar
+- Cantidad de Muestra
+- Cantidad de Servicios
+- Categoría
+- Certificado
+- Certificado de análisis de origen
+- Certificados
+- Certified Quantity
+- Contact Name
+- Contact Phone
+- Created by
+- Created on
+- Crudo
+- Datos de Contacto
+- Datos de Muestra OIAT
+- Datos de la Muestra
+- Display Name
+- Ej: 021 123456
+- Ej: LOTE-2024-001
+- Elaboración
+- Eliminar
+- Especifique el tipo de muestra
+- Especifique el tipo de muestra...
+- Estado
+- Expiration Date
+- Fecha de Elaboración
+- Fecha de Vencimiento
+- Gaseoso
+- Group By
+- ID
+- Ingrese el Teléfono de Contacto.
+- Ingrese la Persona de Contacto.
+- L
+- Last Updated by
+- Last Updated on
+- Litraje
+- Lote
+- Líquido
+- Muestra de alimentos
+- Name
+- Nombre completo...
+- Nombre del proveedor...
+- Nombre del tipo de muestra
+- Número de Lote
+- OIAT Sample Type
+- OIAT Sample Type Administrator
+- OIAT Service
+- OIAT Service Catalog
+- OIAT Service Request - %s
+- OIAT Services
+- OIAT: Solicitud de Muestra
+- Observaciones
+- Observaciones y Requerimientos Especiales
+- Observations
+- Origin Certificate
+- Other (Specify)
+- Other Sample Type
+- Otro
+- Otros
+- Otros:
+- Persona de Contacto
+- Production Date
+- Producto / Determinación
+- Proveedor
+- Sample Quantity
+- Sample Request
+- Sample Type
+- Sample Type (name)
+- Sample UoM
+- Seleccionar categoría...
+- Seleccionar producto...
+- Seleccionar tipo de muestra...
+- Sequence
+- Service %(index)s: Certified Quantity is required.
+- Service %(index)s: Sample Quantity must be greater than 0.
+- Service %(index)s: Sample Type is required.
+- Service %(index)s: Sample UoM is required.
+- Service %(index)s: invalid Sample Type.
+- Service %(index)s: invalid catalog selection.
+- Service %(index)s: product is not available for this department.
+- Service %(index)s: specify the sample type when selecting 'Otros'.
+- Servicios solicitados
+- Sin archivo
+- Supplier
+- Sólido
+- Teléfono de Contacto
+- Tipo de Muestra
+- Tipos de Muestras
+- Unidad de medida (obligatoria)
+- UoM
+- UoM *
+- Vencimiento
+- Volumen o peso físico que envía.
+- ml
+
+================================================================================
+MODULO: intn_fleet_cistern_certificates (91 faltantes)
+================================================================================
+- <span class=\"bold\" style=\"margin-right:5px;\">Name or legal name:</span>
+- <span class=\"bold\" style=\"margin-right:5px;\">RUC:</span>
+- Active
+- Allowed Lots
+- Archived
+- Assign
+- Assign Seals
+- Assign Seals Wizard
+- Assign Seals Wizard Line
+- Authorized Official
+- Authorized Officials
+- Calibration Certificate Code
+- Calibration Date
+- Calibration Expiry Date
+- Calibration expiry date must be on or after calibration date.
+- Cannot assign seals: all compartments must have number and capacity.
+- Cannot assign seals: no compartment dimensions configured.
+- Certificate Authorized Official
+- Company
+- Compartment Req Capacity
+- Compartment Req Empty Space Height
+- Compartment Req Full Space Height
+- Compartment Req Height
+- Compartment Req Internal Measures
+- Compartment Req Length
+- Compartment Req Total Space Height
+- Compartment Req Width
+- Compartment Show Capacity
+- Compartment Show Empty Space Height
+- Compartment Show Full Space Height
+- Compartment Show Height
+- Compartment Show Internal Measures
+- Compartment Show Length
+- Compartment Show Total Space Height
+- Compartment Show Width
+- Compartment number is required for compartment data lines.
+- Computed as total space height minus empty space height.
+- Could not locate the stock move line for a seal serial.
+- Could not locate the stock move line for the selected serial.
+- Could not reserve stock for a seal serial.
+- Could not reserve stock for the selected serial.
+- Each measurement pattern must be selected from the catalog.
+- End date for certificate verification date filter
+- End date must be greater than or equal to start date.
+- From
+- Generate Serials
+- Generated Lots
+- Internal reference or code for the pattern.
+- Invalid range limits.
+- Manual total space height measured from the inspection opening.
+- Measurement Pattern Catalog
+- Missing required compartment measures based on Settings: %s
+- Move Line
+- Name
+- No certificates found for the selected criteria.
+- No outgoing picking type configured for this warehouse.
+- No seal products found in the configured category.
+- Not enough seal serials available in stock.
+- Notes...
+- Only an authorized official may emit fleet certificates.
+- Pattern %(pattern)s is not valid on %(date)s.
+- Pattern Catalog
+- Pattern Selection Date
+- Picking
+- Picking Type
+- Please add at least one seal.
+- Product
+- Product is required.
+- Ref.
+- Seal Serial Range
+- Seal Serial Ranges
+- Seal serial numbers must be consecutive without gaps.
+- Section title or note text when line type is section or note.
+- Selected serial is not available in this warehouse.
+- Serial/Lot
+- Series Prefix
+- Stock move line for this seal serial
+- Stock picking that consumed this seal
+- This seal serial is already assigned.
+- This serial range already exists.
+- Tire position (e.g., Front Left, Rear Right)
+- To
+- Unique Lot/Serial Number
+- Valid From
+- Valid To
+- Valid to must be on or after valid from.
+- Warehouse
+- Wizard
+- You can assign at most 4 seals per compartment.
+- You cannot select the same serial twice.
+- mm
+
+================================================================================
+MODULO: intn_documents (83 faltantes)
+================================================================================
+- <option value=\"\">All</option>
+- A reason is required for reprinting.
+- Active
+- Archived
+- Backend
+- Cancel
+- Certificate
+- Certificate Reprint Wizard
+- Certificate state
+- Certificates
+- Channel
+- Could not generate the certificate PDF for %s.
+- Created by
+- Created on
+- DMS Category (Emitted)
+- DMS Directories
+- Date
+- Description
+- Display Name
+- Document Departments
+- Document Version
+- Documents
+- Download
+- Download Disabled
+- Download Limit Reached
+- Download Policies
+- Download Policy
+- Emission Date
+- Emitido
+- Emitted PDF
+- Explain why the certificate is being reprinted (e.g. physical loss).
+- Filter
+- Fleet
+- From
+- Generic
+- ID
+- INTN Department
+- INTN Document Download Policy
+- INTN Documents
+- INTN Documents / Auditor (all departments)
+- INTN Documents / Department scoped
+- INTN Documents / Fleet
+- INTN Documents / Generic
+- INTN Documents / Metrology
+- IP Address
+- Internal department that owns certificates of this type.
+- Kind
+- Last Updated by
+- Last Updated on
+- Metrology
+- Missing required attachments: %s
+- My Documents
+- No certificates found
+- No documents found.
+- No emitted PDF is available for this certificate.
+- Only confirmed certificates can be reprinted.
+- Only one download policy per certificate type is allowed.
+- Payment Required
+- Portal
+- Portal Download Allowed
+- Portal Download Block Reason
+- Portal Downloads Remaining
+- Portal Max Downloads
+- Print Count
+- Print History
+- Print Log
+- Prints
+- Reason
+- Reference
+- Report XML ID
+- Reprint
+- Reprint Certificate
+- Requires Payment
+- Restrict certificate.management visibility by department.
+- Search by partner, certificate type, or verification date.
+- Showing
+- State
+- To
+- Verification Date
+- Version
+- documents
+- e.g. physical loss
+- of
+
+================================================================================
+MODULO: intn_fleet_cistern_seals (81 faltantes)
+================================================================================
+- <span class=\"bold\">Observación: </span>
+- A seal lot cannot be used more than once.
+- Aclaración:
+- Add one line per seal from the remission.
+- Business classification for seal operations (reporting and rules).
+- Business lifecycle state for security seal lots (PRECINTO).
+- Cannot cancel return: Transfer must be cancelled or validated first.
+- Cannot create remission: vehicle does not have a valid certificate.
+- Cantidad
+- Cantidad:
+- Closure
+- Color
+- Compartment %d is already assigned in this remission.
+- Compartment number must be greater than 0
+- Código camión cisterna
+- Date From
+- Date To
+- Datos proporcionados por el transportista:
+- Driver ID lookup service is not configured in this environment.
+- Emblema de camión:
+- End date must be greater than or equal to start date.
+- Estación de Servicio destinado a la carga:
+- Export Excel
+- Fecha:
+- Final business result registered for the latest closure of this seal.
+- From
+- Incident type can only be set on irregular seal lines.
+- Incident type can only be set when the closure result is irregular.
+- Incident type is required for irregular seal lines.
+- Irregular
+- Irregular seal follow-up (DJUR)
+- Location
+- Lot
+- Lugar de Precintado:
+- Measurement record vehicle must match the remission vehicle.
+- Missing seals: %s
+- No customer stock location found.
+- No internal picking type found.
+- No records found for the selected criteria.
+- Number
+- ONM-UMLE-F24/1A
+- Observación:
+- Only available seal lots can be assigned. Invalid lots: %s
+- Only draft returns can be confirmed.
+- Partner
+- Print PDF
+- Product with code 'PRECINTO' not found.
+- Producto:
+- Record Count
+- Remisión de Precintos
+- Report Type
+- Reports
+- Review seal return %s for irregular seals.
+- Seal %s is not in customer location (expected after remission).
+- Seal %s is not part of remission %s.
+- Seal Lot
+- Seal Remission Count
+- Seal Remissions List
+- Seal Report Wizard
+- Seal Reports
+- Seal Reports Wizard
+- Seal Return Count
+- Seal Returns List
+- Seal Status
+- Seal Status List
+- Seal location is required to confirm a seal remission.
+- Seal location must have a stock location configured.
+- Seal locations define where seals are placed on vehicles.
+- Seal lot must belong to a product with code 'PRECINTO'
+- Seal lot must belong to the configured seal product
+- Seal lot product must match remission product
+- Seal returns track when seals are returned to stock after use.
+- Seal serial numbers must be consecutive without gaps.
+- Seal state can only be set on security seal product lots.
+- Seals not in remission: %s
+- Service request vehicle must match the remission vehicle.
+- Specific incident type when the seal closure is irregular.
+- The remission has no seal lots to close.
+- True when returned seals do not match remission seals.
+- Vehicle is required to confirm a seal remission.
+- to
+
+================================================================================
+MODULO: intn_fleet_cisterns (80 faltantes)
+================================================================================
+- 'Requisitos Calibración %s' % (object.name or object.id)
+- 'Solicitud Verificación %s' % (object.name or object.id)
+- <strong>Camión:</strong>
+- <strong>Dirección:</strong>
+- <strong>Fecha de Agendamiento:</strong>
+- <strong>Fecha de Solicitud:</strong>
+- <strong>Nombre y Apellido / Razón Social:</strong>
+- <strong>N° Solicitud:</strong>
+- <strong>Plazo de Pago:</strong>
+- <strong>RUC:</strong>
+- <strong>Solicitante:</strong>
+- <strong>Teléfono:</strong>
+- Activos
+- Allow portal users to register and manage their company cisterns.
+- Allow portal users to register tank trucks.
+- Archivados
+- Av. Gral. José Gervasio Artigas 3973, Asunción
+- Capacity
+- Chassis (VIN)
+- Cistern
+- Cistern Technician
+- Column
+- Column visibility and requirements
+- Create your first tank truck
+- Current driver
+- Debe contar con 2 (DOS) baldes de arena en ambos costados del Tanque.
+- Documentation
+- Documento generado por INTN - Sistema de Gestión
+- El Camión debe tener la válvula rápida (a cabo).
+- El Tanque no debe poseer ningún tipo de abolladura.
+- El auxilio debe estar en buenas condiciones.
+- Empty space height
+- Failed to load trailer
+- Full space height
+- Height
+- INSTITUTO NACIONAL DE TECNOLOGÍA,
+- INTN - Unidad de Metrología Legal | www.intn.gov.py
+- Instituto Nacional de Tecnología, Normalización y Metrología
+- Internal measures
+- Length
+- License Plate
+- Model
+- My Company Tank Trucks
+- NORMALIZACIÓN Y METROLOGÍA
+- Name
+- Next:
+- ORGANISMO NACIONAL DE METROLOGÍA
+- Optional prefix for auto-generated tank truck plates.
+- Owner:
+- REQUISITOS PARA LA CALIBRACIÓN
+- Require
+- Require capacity
+- Require empty space height
+- Require full space height
+- Require height
+- Require internal measures
+- Require length
+- Require total space height
+- Require width
+- Requisitos para Calibración
+- Settings
+- Show
+- Show capacity
+- Show empty space height
+- Show full space height
+- Show height
+- Show internal measures
+- Show length
+- Show total space height
+- Show width
+- Solicitud de Verificación de Camiones
+- Superficie arenada en buenas condiciones.
+- Tank Truck Management
+- Tank Truck Plate Prefix
+- Tank trucks are registered by partners for fuel and liquid transport.
+- Todos (activos + archivados)
+- Total space height
+- Trailer:
+- Unidad de Metrología Legal
+- Width
+
+================================================================================
+MODULO: intn_mrp_dse (69 faltantes)
+================================================================================
+- 'DSE Inspection - %s' % (object.name)
+- <strong>Customer:</strong>
+- <strong>Date:</strong>
+- <strong>Manufacturing Order:</strong>
+- <strong>Notes:</strong>
+- <strong>Reference:</strong>
+- <strong>Type:</strong>
+- A manufacturing order is required to confirm the inspection.
+- Action Needed
+- Active
+- Activities
+- Activity Exception Decoration
+- Activity State
+- Activity Type Icon
+- Attachment Count
+- Cancel
+- Cancelled
+- Company
+- Confirm
+- Created by
+- Created on
+- Customer
+- DSE Inspection
+- DSE Inspection Report
+- DSE Inspections
+- DSE Inspector
+- DSE Pressure Equipment Inspection
+- Display Name
+- Done
+- Draft
+- Dse Inspection Count
+- Followers
+- Followers (Partners)
+- Font awesome icon e.g. fa-tasks
+- Has Message
+- ID
+- Icon
+- Icon to indicate an exception activity.
+- If checked, new messages require your attention.
+- If checked, some messages have a delivery error.
+- Initial
+- Inspection Date
+- Inspection Type
+- Inspection notes...
+- Intermediate
+- Is Follower
+- Last Updated by
+- Last Updated on
+- Message Delivery error
+- Messages
+- My Activity Deadline
+- Name
+- Next Activity Calendar Event
+- Next Activity Deadline
+- Next Activity Summary
+- Next Activity Type
+- Notes
+- Number of Actions
+- Number of errors
+- Number of messages requiring action
+- Number of messages with delivery error
+- Ratings
+- Reset to Draft
+- Responsible User
+- SMS Delivery error
+- State
+- Type of the exception activity on record.
+- Website Messages
+- Website communication history
+
+================================================================================
+MODULO: intn_sale_additional_costs (60 faltantes)
+================================================================================
+- %d tech. × %d days × %.0f (%s) = %.0f
+- %d zones updated in %s (%s).
+- Aceptar
+- Additional Cost Created At
+- Additional Description
+- Additional costs calculated
+- Additional costs can only be added on draft or sent quotes.
+- Admin
+- Administrativos
+- An additional cost category must be selected.
+- At least one amount must be provided.
+- Calcular Costos Adicionales
+- Calculate Additional Costs
+- Cancelar
+- Cannot apply a zero-amount cost calculation.
+- Cantidad
+- Complementary invoice for order %s
+- Concepto
+- Configuración
+- Costing
+- Costos Adicionales
+- Costs Updated
+- Descripciones Adicionales
+- Distance cannot be negative.
+- End date must be after start date.
+- Factura complementaria
+- Factura principal
+- Gastos de gestión
+- Gastos documentales
+- ID
+- Km/L
+- Lpi
+- Maintenance (%)
+- Maintenance percentage cannot be negative.
+- Maintenance percentage cannot exceed 100%.
+- No travel zones found for department %s.
+- No vehicle — fuel cost skipped
+- Nro de acta
+- Overrides vs. suggested global values:
+- Per-diem cannot be negative.
+- Per-diem with lodging cannot be negative.
+- Per-diem without lodging cannot be negative.
+- Percentage (%)
+- Precio Unit.
+- Ruta
+- Subtotal
+- Tarifa
+- Toll cost cannot be negative.
+- Traslado
+- Traslado — %s (%s, %.0f km)
+- Travel
+- Update Tolls by Department
+- Vehículo
+- Viáticos
+- Viáticos — %d técnicos, %d días %s
+- per-diem with lodging
+- per-diem without lodging
+- toll
+- with overnight
+- without overnight
+
+================================================================================
+MODULO: intn_mrp_oiat (58 faltantes)
+================================================================================
+- <span class=\"bold\">Entrada N°:</span>
+- <span class=\"bold\">Solicitante:</span>
+- Abbreviation
+- Act number
+- Address
+- Assay item
+- Asunción,
+- Beneficiary
+- CONSTANCIA
+- Certificate sequence is not configured.
+- Chief
+- Client requester and beneficiary
+- Configuration
+- Dates
+- Department
+- Dept. code
+- Determinations
+- Done
+- Execution date
+- Expedient is required for non-internal OIAT reports.
+- Expedient number
+- Fecha del Informe:
+- Fin de Informe
+- Group By
+- INFORME DE ENSAYO
+- INFORME TÉCNICO
+- Jefe de Dpto.
+- Jefe de Unidad
+- LPI
+- Laboratory document registry per manufacturing work order
+- Legacy mirror field; kept for parity with v12 dual work order fields.
+- Motivo de anulación:
+- No ir.sequence found for code %s. Configure sequences.
+- Nº:
+- OIAT
+- OIAT Report
+- OIAT change the abbreviation of the correlative
+- Only draft reports can be deleted.
+- Parties
+- Profesional Técnico
+- Provide the void reason before voiding.
+- Quantity
+- Reception date
+- References
+- Report date
+- Report type
+- Requester
+- Responsible parties
+- Service type
+- Short code used in ir.sequence codes for OIAT reports (e.g. AGRO).
+- Short label used in OIAT report correlatives.
+- The certificate is not approved.
+- The report is not approved.
+- The technician is not in this department.
+- This work order already has an OIAT report of this type.
+- Under review
+- You cannot edit this record in its current state.
+- You do not have permission to perform this action.
+
+================================================================================
+MODULO: intn_portal_sale_orders (48 faltantes)
+================================================================================
+- <i class=\"fa fa-arrow-left me-1\"/>Volver a Pedidos
+- <i class=\"fa fa-arrow-left me-1\"/>Volver a Presupuestos
+- <i class=\"fa fa-check me-1\"/>Confirmado
+- <i class=\"fa fa-check me-1\"/>Pedido Confirmado
+- <i class=\"fa fa-eye me-1\"/>Ver
+- <i class=\"fa fa-file-text me-1\"/>Ver Presupuestos
+- <i class=\"fa fa-file-text me-2\"/>Mis Presupuestos
+- <i class=\"fa fa-list me-2\"/>Detalle del Pedido
+- <i class=\"fa fa-lock me-1\"/>Bloqueado
+- <i class=\"fa fa-lock me-1\"/>Pedido Bloqueado
+- <i class=\"fa fa-paper-plane me-1\"/>Enviado
+- <i class=\"fa fa-paper-plane me-1\"/>Presupuesto Enviado
+- <i class=\"fa fa-pencil me-1\"/>Borrador
+- <i class=\"fa fa-pencil me-1\"/>Presupuesto (Borrador)
+- <i class=\"fa fa-search me-1\"/>Filtrar
+- <i class=\"fa fa-shopping-cart me-1\"/>Ver Pedidos
+- <i class=\"fa fa-shopping-cart me-2\"/>Mis Pedidos
+- <i class=\"fa fa-times me-1\"/>Cancelado
+- <span class=\"fw-bold\">Información del Pedido</span>
+- Acción
+- Bloqueado
+- Borrador
+- Cancelado
+- Cantidad
+- Cliente
+- Confirmado
+- Empresa
+- Enviado
+- Estado
+- Fecha
+- Fecha del Pedido
+- Impuestos
+- Mis Pedidos
+- Mis Presupuestos
+- Notas / Condiciones
+- Ordenar por
+- Precio Unit.
+- Producto / Servicio
+- Referencia
+- Sin líneas de pedido.
+- Subtotal
+- Subtotal sin impuestos
+- Todos
+- Total
+- Vendedor
+- Ver pedidos de venta
+- Ver presupuestos
+- Válido hasta
+
+================================================================================
+MODULO: intn_portal_fleet_cistern (42 faltantes)
+================================================================================
+- Access denied
+- Access denied.
+- Attendance cannot be confirmed for this request.
+- Attendance confirmed.
+- Brand creation is not available in the portal.
+- Brand is required.
+- Capacity is required
+- Chassis number is required.
+- Cistern plate is required.
+- Contact name and phone are required.
+- Download is disabled for this certificate type.
+- Download limit reached for this certificate.
+- Duplicated vehicle data detected.
+- Emblem creation is not available in the portal.
+- Invalid appointment date.
+- Invalid product to transport selection.
+- Invalid service type.
+- Invalid trailer selection.
+- Invalid vehicle selection.
+- Missing appointment date.
+- Missing required fields
+- Model creation is not available in the portal.
+- Model is required.
+- No puede seleccionar fuera del horario establecido por INTN: %s
+- Product to transport is required.
+- Request cancelled successfully.
+- Request rescheduled successfully.
+- Service Request - %s
+- Service request created from portal
+- Service type is required.
+- This certificate is not available until the related service is paid.
+- This chassis number is already registered.
+- This cistern plate is already registered.
+- This license plate is already registered.
+- This request cannot be cancelled.
+- This request cannot be rescheduled.
+- Trailer plate is required.
+- Truck license plate is required.
+- Vehicle not found.
+- You cannot use this vehicle for this request.
+- You must select a trailer.
+- You must select a vehicle.
+
+================================================================================
+MODULO: intn_account_payment_group (40 faltantes)
+================================================================================
+- 'Credit Note - %s' % (object.name)
+- <strong>Customer:</strong>
+- <strong>Date:</strong>
+- <strong>Number:</strong>
+- <strong>Original Invoice:</strong>
+- <strong>Total:</strong>
+- April
+- Aqui Pago
+- August
+- Cash and credit invoices cannot be mixed in the same receipt
+- Check already exists: %(bank)s %(check)s
+- Credit Note
+- Credit Note Detail
+- Credit Note Lines
+- December
+- Description
+- Duplicated transfer
+- February
+- ID
+- January
+- July
+- June
+- March
+- May
+- Memo
+- November
+- October
+- Original Invoice Lines
+- Payment receipt %(receipt)s confirmed. Service processing may begin.
+- Payment type is not defined. Contact your administrator
+- Qty
+- Receipts
+- Sale Orders
+- September
+- Subtotal
+- Transfer %(document)s already exists in payment %(payment)s.
+- Unit Price
+- You do not have permission to cancel receipts
+- You do not have permission to register payment orders
+- You do not have permission to register receipts
+
+================================================================================
+MODULO: intn_portal_hybrid_auth (38 faltantes)
+================================================================================
+- <option value=\"\">Seleccione...</option>
+- Another user is already registered using this email address.
+- Authoritative source used to create or validate this portal identity.
+- Confirmar contraseña <span style=\"color:red\">*</span>
+- Contraseña <span style=\"color:red\">*</span>
+- Correo Electrónico <span style=\"color:red\">*</span>
+- Could not create a new account.
+- Documento Extranjero <span style=\"color:red\">*</span>
+- El registro manual solo está disponible para usuarios extranjeros.
+- Email is required.
+- Foreign identity document number is required.
+- Foreign identity document type is required.
+- Full name is required.
+- ID Extranjera
+- Iniciar sesión con Identidad Electrónica (Solo Paraguayos)
+- MITIC
+- MITIC did not return the required identity data.
+- Nationality validation service is not configured.
+- Nombre y Apellido completo <span style=\"color:red\">*</span>
+- Número de Documento <span style=\"color:red\">*</span>
+- Optional secondary data endpoint for additional identity claims.
+- Pasaporte
+- Passwords do not match; please retype them.
+- Please choose one of the available access options.
+- Query parameter name used to send the foreign document number.
+- Registro manual exclusivo para usuarios extranjeros.
+- Registro manual extranjero
+- Soy Extranjero / Registro Manual
+- Suspicious activity detected by Google reCaptcha.
+- Timeout, in seconds, for nationality validation requests.
+- User info or validation URL that returns the identity claims.
+- Volver a las opciones de acceso
+- When enabled, authoritative identity fields cannot be edited manually.
+- document_number
+- https://identity.example.com/check
+- https://mitic.example.com/oauth2/authorize
+- https://mitic.example.com/oauth2/userinfo
+- portal-intn-client-id
+
+================================================================================
+MODULO: intn_mrp_organism_access (36 faltantes)
+================================================================================
+- Demo Finished DSE S1
+- Demo Finished DSE S2
+- Demo Finished OIAT S1
+- Demo Finished OIAT S2
+- Demo Finished ONC S1
+- Demo Finished ONC S2
+- Demo Finished ONI S1
+- Demo Finished ONI S2
+- Demo Finished ONM S1
+- Demo Finished ONM S2
+- Demo Finished ONN S1
+- Demo Finished ONN S2
+- Done
+- In progress
+- MRP DSE
+- MRP METCI
+- MRP OIAT
+- MRP ONC
+- MRP ONI
+- MRP ONM
+- MRP ONN
+- Only Manufacturing administrators can create work centers.
+- Only Manufacturing administrators can modify work centers.
+- Organisms linked to this user for Manufacturing record rules.
+- Received
+- Scrap
+- Service done
+- Service state
+- Sync work center organism from INTN hierarchy
+- Work Center
+- Work center %(wc)s is already assigned to organism %(org)s.
+- You are not allowed to access records from another organism.
+- You are not allowed to access scrap records from another organism.
+- You are not allowed to access work centers from another organism.
+- You cannot create a manufacturing order outside your organisms.
+- You cannot create scrap records outside your organisms.
+
+================================================================================
+MODULO: intn_mrp_statistical_report (34 faltantes)
+================================================================================
+- Agrupar por
+- Año anterior
+- Año del Servicio
+- Cancelado
+- Cant. Servicios por Expediente
+- Cantidad
+- Cantidad de Servicios
+- Cantidad de Servicios por Expediente
+- Departamento
+- Departamento Ejecutor
+- Display Name
+- Estado de Pago
+- Estadísticas de Servicios
+- Este año
+- Este mes
+- Facturado
+- Fecha del Servicio
+- ID
+- Mes del Servicio
+- No Facturado
+- No Pagado
+- Nombre de Organización
+- Nombre del Departamento
+- N° Expediente
+- N° Expediente Asociado
+- N° de Expediente Asociado
+- Orden de Producción
+- Organización
+- Pagado
+- Pedido de Venta
+- Producto
+- Reportes Estadísticos
+- Servicio Prestado
+- Statistical Report of Services
+
+================================================================================
+MODULO: intn_fleet_cistern_scheduling (33 faltantes)
+================================================================================
+- Active
+- All Souls' Day
+- Can see calendar events linked to service.request (fleet scheduling).
+- Cannot schedule on holidays.
+- Cannot schedule on weekends.
+- Christmas Day
+- Created by
+- Created on
+- Date
+- Description
+- Display Name
+- Foundation of Asuncion
+- Good Friday
+- Heroes' Day
+- ID
+- INTN Calendar: Fleet service appointments
+- INTN Holiday
+- INTN Public Holiday
+- Independence Day
+- Labor Day
+- Last Updated by
+- Last Updated on
+- Maundy Thursday
+- Missing appointment date.
+- New Year's Day
+- Peace of the Chaco
+- Public Holiday
+- Public Holiday Event
+- Public Holidays
+- There is already a holiday on %(date)s.
+- Victory of Boqueron
+- Virgin of Caacupe
+- You are not allowed to access this calendar event.
+
+================================================================================
+MODULO: intn_fleet_cistern_fines (32 faltantes)
+================================================================================
+- <span class=\"fine-label\">Certificado:</span>
+- <span class=\"fine-label\">Fecha y Hora:</span>
+- <span class=\"fine-label\">Número de Chasis:</span>
+- <span class=\"fine-label\">Número de Multa:</span>
+- <span class=\"fine-label\">Placa:</span>
+- <span class=\"fine-label\">RUC:</span>
+- <span class=\"fine-label\">Razón Social:</span>
+- <span class=\"fine-label\">Tipo de Multa:</span>
+- <span class=\"fine-label\">Técnico Responsable:</span>
+- <span class=\"fine-label\">Vehículo:</span>
+- ACTA DE MULTA
+- Block %s has been lifted. Vehicle is eligible for inspection again.
+- Datos del Transportista
+- Datos del Vehículo
+- Did not attend the scheduled inspection/review.
+- Fine %s has been paid. Vehicle is eligible for inspection again.
+- Fine record when irregular seals require DJUR follow-up.
+- Fines are issued for vehicle verification irregularities.
+- Firma del Técnico
+- INSTITUTO NACIONAL DE TECNOLOGÍA, NORMALIZACIÓN Y METROLOGÍA
+- INTN
+- Irregular seals: damage, tampering, or not returned.
+- Irregularidades Detectadas
+- Only block-type records can be unblocked.
+- Only confirmed fines can be marked as paid.
+- Only confirmed records can be unblocked.
+- Only draft fines can be confirmed.
+- Only vehicle fines can be marked as paid.
+- Returned seals do not match the remission set.
+- Seal closure irregularity detected.
+- Seal mismatch: Returned seals do not match remission seals.
+- True if vehicle has a confirmed vehicle-type fine not yet paid.
+
+================================================================================
+MODULO: intn_mrp_workorder_forwarding (29 faltantes)
+================================================================================
+- A finished or cancelled work order cannot be cancelled.
+- Access
+- Allowed Users
+- Create Internal Request
+- Customer
+- Expedient
+- Finish work orders
+- Forward multiple work orders
+- Forwarded Receiver User
+- ID
+- Internal Request
+- MRP Work Order Internal Request
+- No work orders selected for forwarding.
+- One or more work orders are already forwarded.
+- Reference
+- Source Work Center
+- Start work orders
+- Target Work Center
+- The target department must have a Production Work Center configured.
+- This work order is already forwarded.
+- This work order is not forwarded.
+- Users allowed to start work orders on this work center.
+- Work Center
+- Work Orders
+- You are not allowed to start work orders on this work center.
+- You can only cancel forwarding in Ready state.
+- You can only forward a work order in Ready state.
+- You can only forward work orders from the same work center.
+- You can only forward work orders that have not been started yet.
+
+================================================================================
+MODULO: l10n_py_edi_segel (29 faltantes)
+================================================================================
+- <span class=\"fw-bold\">CDC: </span>
+- <span class=\"fw-bold\">Status: </span>
+- <strong>Electronic Invoice (SET)</strong>
+- Approved
+- CDC
+- CDC (Codigo de Control)
+- Descripcion Detalle
+- Do Not Send to SIFEN
+- Draft
+- Electronic Invoice
+- Electronic Invoicing
+- Electronic Invoicing (Paraguay)
+- Electronic Invoicing Production
+- Electronic Invoicing Test
+- Estado e-Invoice
+- Not sent (SIFEN disabled)
+- Only posted customer invoices can be submitted to SIFEN.
+- Pending submission
+- Production
+- QR ekuatia
+- Rejected
+- SIFEN Last Error
+- SIFEN State
+- Sent to SIFEN
+- Submit to SIFEN
+- Submitted (stub)
+- Test
+- e-Invoice QR
+- e-kuatia
+
+================================================================================
+MODULO: intn_organization_reports (26 faltantes)
+================================================================================
+- 'Sales by organization - %s' % (object.date_from)
+- <strong>Grand total amount</strong>
+- <strong>Grand total quantity</strong>
+- <strong>Period:</strong>
+- <strong>Subtotal</strong>
+- Cancel
+- Created by
+- Created on
+- Date from
+- Date from cannot be after date to.
+- Date to
+- Display Name
+- ID
+- Last Updated by
+- Last Updated on
+- Leave empty to include every organization with sales in the period.
+- No sale lines with an organization were found for this period.
+- Order
+- Organization reports
+- Organizations
+- Print PDF
+- Product
+- Qty
+- Sales by Organization Report Wizard
+- Sales by organization
+- Subtotal
+
+================================================================================
+MODULO: intn_inspection_certificate (24 faltantes)
+================================================================================
+- Approve document
+- Cannot confirm certificate: At least one inspection is required.
+- Compart. Inspeccionados
+- Código
+- DATOS DEL CLIENTE
+- Dirección
+- Document review
+- Emblema
+- Entrada N°
+- Fecha de Inspección
+- JEFE/A DE DEPARTAMENTO
+- Matrícula/Camión
+- Matrícula/Cisterna
+- ONI N°
+- Observe
+- Only draft certificates can be confirmed.
+- Registro de Inspección N°
+- Reject document
+- Review comment
+- Review date
+- Reviewed by
+- Solicitante
+- Some inspections are already used in another certificate: %s
+- TÉCNICO DE INSPECCIÓN
+
+================================================================================
+MODULO: intn_product_organization (23 faltantes)
+================================================================================
+- Complementos
+- DCPE_Certificación de Electricistas en sus categorías B1.
+- DCPE_Certificación de Electricistas en sus categorías:  B1
+- DCPE_Certificación de Electricistas en sus categorías:  B2, B3 y B4
+- DCPE_Certificación de Soldadores y Operadores de soldadura
+- INTN: In situ
+- Metrología - Calibración - Instrumentos dimensionales
+- Metrología - Fiscalización
+- NP 118
+- NP 15 004 16
+- NP 17 021 71
+- NP 17 057 07
+- NP 17 064 13
+- NP 17 080 14
+- NP 21 025 95
+- NP 322
+- NP 39
+- NP 50 016 11
+- NP 69
+- PNA 20 032 21
+- Portal Department
+- Portal Header Ready
+- Portal Organization
+
+================================================================================
+MODULO: intn_account_pagopar (21 faltantes)
+================================================================================
+- <strong>Comprobante de transferencia</strong>
+- A verificar
+- Adjunte su comprobante
+- Aprobado
+- Credit Cards - PagoPar
+- Enviar comprobante
+- Error
+- ID
+- Invalid PagoPar notification token
+- No PagoPar transaction found for order %s
+- PagoPar payment for invoice %s
+- PagoPar transaction failed
+- Paid with Aquipago
+- Pending
+- Rechazado
+- Transfer payments require an approved transfer receipt.
+- Transfer receipt approved.
+- Transfer receipt rejected.
+- Your payment has been authorized.
+- Your payment has been cancelled.
+- Your payment has been successfully processed.
+
+================================================================================
+MODULO: intn_fleet_cistern_extensions (21 faltantes)
+================================================================================
+- <span class=\"extension-label\">Certificado:</span>
+- <span class=\"extension-label\">Fecha de Fin:</span>
+- <span class=\"extension-label\">Fecha de Inicio:</span>
+- <span class=\"extension-label\">Fecha:</span>
+- <span class=\"extension-label\">Motivo:</span>
+- <span class=\"extension-label\">Número de Prórroga:</span>
+- <span class=\"extension-label\">Placa:</span>
+- <span class=\"extension-label\">RUC:</span>
+- <span class=\"extension-label\">Razón Social:</span>
+- <span class=\"extension-label\">Técnico Responsable:</span>
+- <span class=\"extension-label\">Vehículo:</span>
+- ACTA DE PRÓRROGA
+- Certificate expiration extended to %s by extension %s.
+- Certificate is required to confirm extension.
+- Extension %s cancelled. Certificate expiration reverted to %s.
+- Extension end date must be after start date.
+- Firma del Técnico
+- INSTITUTO NACIONAL DE TECNOLOGÍA, NORMALIZACIÓN Y METROLOGÍA
+- INTN
+- Only draft extensions can be confirmed.
+- Período de Prórroga
+
+================================================================================
+MODULO: intn_account_cashier (19 faltantes)
+================================================================================
+- Authorized Users
+- Cash Control
+- Cashier box
+- Cashier session
+- Customer Invoices
+- Demo Cashier Journal
+- ID
+- In progress
+- Invoices
+- Only a session in opening state can be started.
+- Only the assigned cashier can start this session.
+- Open session
+- Start session
+- The session is assigned to another user
+- There is already an open session for this box
+- There is already an open session for this user
+- Unknown cashier box.
+- You are not authorized to open a session on cashier box \"%s\".
+- You cannot close the session while cash invoices remain unpaid.
+
+================================================================================
+MODULO: intn_account_bank_transfer (17 faltantes)
+================================================================================
+- <i class=\"fa fa-download\"/> Download
+- <strong>Account:</strong>
+- <strong>Bank:</strong>
+- <strong>RUC:</strong>
+- Attach your receipt
+- Bank Transfer: No transaction found matching reference %s.
+- Only receipts pending review can be approved or rejected.
+- RUC
+- Receipt Preview
+- Receipt approved.
+- Receipt rejected. Please upload a new one.
+- Submit a new receipt
+- Submit receipt
+- Transfer details
+- Your payment has been authorized.
+- Your payment has been cancelled.
+- Your payment has been successfully processed.
+
+================================================================================
+MODULO: partner_map_picker (17 faltantes)
+================================================================================
+- AIza...
+- Cancel
+- Contact not found
+- Could not load map provider
+- Error saving location
+- Google Maps
+- Google Maps API key
+- Google Maps is not configured, falling back to OpenStreetMap.
+- Map provider
+- OSM map library is not available
+- OpenStreetMap
+- Partner Map Picker
+- Partner map provider
+- Pick location on map
+- Save
+- Select the map provider used by the 'Pick on map' dialog in Contacts.
+- Used only when the map provider is Google Maps.
+
+================================================================================
+MODULO: intn_certificate_management (16 faltantes)
+================================================================================
+- Cannot cancel certificate: Delivery order must be cancelled first.
+- Cannot confirm certificate: Expiration date is required.
+- Date From cannot be greater than Date To.
+- If checked, certificate can transfer products (e.g., seals)
+- If checked, certificate requires invoice payment before confirmation
+- Impossibility Cases - Certificates
+- Impossibility Cases - Services
+- No customer stock location found.
+- No internal stock location found.
+- No outgoing picking type found.
+- Number of days the certificate is valid from verification date
+- Only draft certificates can be confirmed.
+- PDF
+- Please select at least one type of record.
+- Portal PDF Download Allowed
+- Standard verification certificate for vehicle compliance
+
+================================================================================
+MODULO: l10n_py_ruc (13 faltantes)
+================================================================================
+- DNIT API URL
+- DNIT API timeout (s)
+- DNIT Validation
+- DNIT validation API URL
+- Enable DNIT validation
+- INTN DNIT Validation Service
+- Invalid RUC check digit. Expected digit: %(expected)s
+- Invalid RUC format. Expected format: NNNNNNN-D (e.g. 12345678-9)
+- RUC
+- Skip RUC validation
+- Validate RUC and name with DNIT
+- When set, RUC format and digit verifier are not validated.
+- https://dnit.example.com/validate
+
+================================================================================
+MODULO: intn_product_remission (10 faltantes)
+================================================================================
+- Cannot confirm remission: At least one lot line is required.
+- Default stock location for remissions from this location
+- Lot %s does not belong to product %s.
+- Lot %s is not available in location %s.
+- No customer stock location found.
+- No outgoing picking type found for location %s.
+- Number of lot lines (%d) must match quantity (%d).
+- Only draft remissions can be confirmed.
+- You can only modify remission lot lines in draft state.
+- You can only modify remissions in draft state.
+
+================================================================================
+MODULO: rf_customer_registration (10 faltantes)
+================================================================================
+- <strong>Registered user:</strong>
+- ATC Signup Notified
+- ATC: New portal signup pending approval
+- Back to login
+- Login:
+- New portal signup pending ATC approval: %s
+- New portal signup pending approval: {{ object.display_name }}
+- Open partner
+- User registered successfully
+- VAT/RUC:
+
+================================================================================
+MODULO: intn_delivery_certificate (9 faltantes)
+================================================================================
+- Approve document
+- Cannot confirm certificate: Remission must be confirmed first.
+- Document review
+- Observe
+- Only draft certificates can be confirmed.
+- Reject document
+- Review comment
+- Review date
+- Reviewed by
+
+================================================================================
+MODULO: intn_mrp_oiat_fuel (9 faltantes)
+================================================================================
+- ID
+- No ir.sequence found for code %s. Configure sequences.
+- Only draft reports can be deleted.
+- Provide the void reason before voiding.
+- The determination line must belong to the selected expedient.
+- The report is not approved.
+- The technician is not in this department.
+- You cannot edit this record in its current state.
+- You do not have permission to perform this action.
+
+================================================================================
+MODULO: intn_sale_price_update (9 faltantes)
+================================================================================
+- Apply price update to all listed products? This cannot be undone.
+- ID
+- No products found matching the selected filters.
+- Please select at least one category.
+- Please select at least one product.
+- Price Changes
+- Price history records cannot be deleted.
+- Price history records cannot be modified.
+- The adjustment value must be greater than zero.
+
+================================================================================
+MODULO: intn_sale_agreement (7 faltantes)
+================================================================================
+- Created by
+- Created on
+- Display Name
+- ID
+- Last Updated by
+- Last Updated on
+- Total Exemption Pricelist
+
+================================================================================
+MODULO: intn_fleet_cistern_constancy (6 faltantes)
+================================================================================
+- - de Código N° -
+- - de fecha -
+- <span class=\"bold\">Asunción, </span>
+- CONSTANCIA PARA PRECINTADO DE CAMIONES CISTERNA No.
+- Constancia para precintado de camiones cisterna
+- El Camión tanque con emblema -
+
+================================================================================
+MODULO: intn_portal_helpdesk (6 faltantes)
+================================================================================
+- <strong>Total:</strong>
+- Default unit of measure used for all stock operations.
+- Error creating sale order: %s
+- Subtotal
+- Ticket %s
+- Total
+
+================================================================================
+MODULO: intn_sale_order_payment_status (6 faltantes)
+================================================================================
+- Cancelled
+- Invoiced
+- Not Invoiced
+- Not Paid
+- Paid
+- Payment Status
+
+================================================================================
+MODULO: l10n_py (6 faltantes)
+================================================================================
+- +IVA10
+- +IVA5
+- +IVAEX
+- Account Chart Template
+- STANDARD TERMS AND CONDITIONS OF SALE
+- You should update this document to reflect your T&amp;C.
+
+================================================================================
+MODULO: intn_api_invoices (4 faltantes)
+================================================================================
+- Enable or disable the public INTN invoices REST API endpoints.
+- INTN
+- Invoice not found
+- No bank/cash journal found to register the payment.
+
+================================================================================
+MODULO: base_res_config_website_sale_stock (3 faltantes)
+================================================================================
+- Continue selling when out-of-stock
+- Show Threshold
+- Show availability Qty
+
+================================================================================
+MODULO: intn_mrp_workorder_lab_registry (3 faltantes)
+================================================================================
+- ID
+- Laboratory document registry per manufacturing work order
+- Laboratory entry code cannot be changed once set.
+
+================================================================================
+MODULO: intn_partner_credit_limit (3 faltantes)
+================================================================================
+- Cash Restriction
+- Credit Customers
+- Set a value greater than 0.0 to activate a credit limit check
+
+================================================================================
+MODULO: web_mutual_boolean_pair (3 faltantes)
+================================================================================
+- Complies
+- Does not comply
+- Mutual Boolean Pair
+
+================================================================================
+MODULO: base_website_password (1 faltantes)
+================================================================================
+- Password Policy
+
+================================================================================
+MODULO: intn_hr_organization_bridge (1 faltantes)
+================================================================================
+- Organism
+
+================================================================================
+MODULO: web_many2many_kanban_cards (1 faltantes)
+================================================================================
+- Partner Kanban Cards
